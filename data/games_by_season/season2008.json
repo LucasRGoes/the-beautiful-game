@@ -1,0 +1,3802 @@
+[
+    {
+        "week": 1,
+        "date_time": "2008-05-10T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 1,
+        "date_time": "2008-05-10T18:10:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 1,
+        "date_time": "2008-05-10T18:10:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 1,
+        "date_time": "2008-05-11T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Sport-PE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 1,
+        "date_time": "2008-05-11T16:00:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 1,
+        "date_time": "2008-05-11T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 1,
+        "date_time": "2008-05-11T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 1,
+        "date_time": "2008-05-11T18:10:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 1,
+        "date_time": "2008-05-11T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 1,
+        "date_time": "2008-05-11T18:10:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 5,
+        "away_goals": 5,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 2,
+        "date_time": "2008-05-17T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 2,
+        "date_time": "2008-05-17T18:10:00",
+        "home_team": "Sport-PE",
+        "away_team": "Vitória-BA",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 2,
+        "date_time": "2008-05-17T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 2,
+        "date_time": "2008-05-18T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 2,
+        "date_time": "2008-05-18T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 2,
+        "date_time": "2008-05-18T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Náutico-PE",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 2,
+        "date_time": "2008-05-18T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 2,
+        "date_time": "2008-05-18T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 2,
+        "date_time": "2008-05-18T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 2,
+        "date_time": "2008-05-18T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 3,
+        "date_time": "2008-05-24T18:10:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Náutico-PE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 3,
+        "date_time": "2008-05-24T18:10:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Figueirense-SC",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 3,
+        "date_time": "2008-05-24T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 3,
+        "date_time": "2008-05-25T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Santos-SP",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 3,
+        "date_time": "2008-05-25T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 3,
+        "date_time": "2008-05-25T16:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 3,
+        "date_time": "2008-05-25T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 3,
+        "date_time": "2008-05-25T18:10:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 3,
+        "date_time": "2008-05-25T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 3,
+        "date_time": "2008-05-25T18:10:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 4,
+        "date_time": "2008-05-31T18:20:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 4,
+        "date_time": "2008-05-31T18:20:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Sport-PE",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 4,
+        "date_time": "2008-05-31T18:20:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 4,
+        "date_time": "2008-06-01T16:00:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 4,
+        "date_time": "2008-06-01T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 4,
+        "date_time": "2008-06-01T16:00:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 4,
+        "date_time": "2008-06-01T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 4,
+        "date_time": "2008-06-01T18:10:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 4,
+        "date_time": "2008-06-01T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 4,
+        "date_time": "2008-06-01T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 5,
+        "date_time": "2008-06-07T18:20:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 5,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 5,
+        "date_time": "2008-06-07T18:20:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Náutico-PE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 5,
+        "date_time": "2008-06-07T18:20:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 5,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 5,
+        "date_time": "2008-06-08T16:00:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 5,
+        "date_time": "2008-06-08T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 5,
+        "date_time": "2008-06-08T16:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 5,
+        "date_time": "2008-06-08T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Goiás-GO",
+        "home_goals": 5,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 5,
+        "date_time": "2008-06-08T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 5,
+        "date_time": "2008-06-08T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 5,
+        "date_time": "2008-06-08T18:10:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 6,
+        "date_time": "2008-06-12T20:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 6,
+        "date_time": "2008-06-12T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 5,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 6,
+        "date_time": "2008-06-12T20:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 6,
+        "date_time": "2008-06-14T16:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Sport-PE",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 6,
+        "date_time": "2008-06-14T16:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 4,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 6,
+        "date_time": "2008-06-14T16:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 6,
+        "date_time": "2008-06-14T18:20:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 6,
+        "date_time": "2008-06-14T18:20:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 6,
+        "date_time": "2008-06-14T18:20:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Vitória-BA",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 6,
+        "date_time": "2008-06-14T18:20:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 7,
+        "date_time": "2008-06-21T18:20:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Figueirense-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 7,
+        "date_time": "2008-06-21T18:20:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 7,
+        "date_time": "2008-06-21T18:20:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Sport-PE",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 7,
+        "date_time": "2008-06-21T18:20:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 7,
+        "date_time": "2008-06-22T16:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 7,
+        "date_time": "2008-06-22T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 7,
+        "date_time": "2008-06-22T16:00:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 7,
+        "date_time": "2008-06-22T18:10:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 7,
+        "date_time": "2008-06-22T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 4,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 7,
+        "date_time": "2008-06-22T18:10:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 8,
+        "date_time": "2008-06-28T18:20:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 8,
+        "date_time": "2008-06-28T18:20:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Goiás-GO",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 8,
+        "date_time": "2008-06-28T18:20:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 8,
+        "date_time": "2008-06-29T16:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 8,
+        "date_time": "2008-06-29T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 8,
+        "date_time": "2008-06-29T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 8,
+        "date_time": "2008-06-29T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 8,
+        "date_time": "2008-06-29T18:10:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 8,
+        "date_time": "2008-06-29T18:20:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 8,
+        "date_time": "2008-06-29T18:20:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Náutico-PE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 9,
+        "date_time": "2008-07-05T18:20:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 9,
+        "date_time": "2008-07-05T18:20:00",
+        "home_team": "Sport-PE",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 9,
+        "date_time": "2008-07-05T18:20:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Náutico-PE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 9,
+        "date_time": "2008-07-06T16:00:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Vitória-BA",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 9,
+        "date_time": "2008-07-06T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Coritiba-PR",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 9,
+        "date_time": "2008-07-06T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 9,
+        "date_time": "2008-07-06T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 9,
+        "date_time": "2008-07-06T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 9,
+        "date_time": "2008-07-06T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 9,
+        "date_time": "2008-07-06T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 10,
+        "date_time": "2008-07-09T19:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 10,
+        "date_time": "2008-07-09T19:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 10,
+        "date_time": "2008-07-09T20:30:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 5,
+        "away_goals": 2,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 10,
+        "date_time": "2008-07-09T20:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 10,
+        "date_time": "2008-07-09T21:45:00",
+        "home_team": "Santos-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 10,
+        "date_time": "2008-07-09T21:45:00",
+        "home_team": "Náutico-PE",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 10,
+        "date_time": "2008-07-09T21:45:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 10,
+        "date_time": "2008-07-10T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 10,
+        "date_time": "2008-07-10T20:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Sport-PE",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 10,
+        "date_time": "2008-07-10T20:30:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 11,
+        "date_time": "2008-07-12T18:20:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 11,
+        "date_time": "2008-07-12T18:20:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 11,
+        "date_time": "2008-07-13T16:00:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Figueirense-SC",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 11,
+        "date_time": "2008-07-13T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 11,
+        "date_time": "2008-07-13T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 11,
+        "date_time": "2008-07-13T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 11,
+        "date_time": "2008-07-13T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 11,
+        "date_time": "2008-07-13T18:10:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Sport-PE",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 11,
+        "date_time": "2008-07-13T18:10:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 11,
+        "date_time": "2008-07-13T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 12,
+        "date_time": "2008-07-16T19:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 12,
+        "date_time": "2008-07-16T19:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 12,
+        "date_time": "2008-07-16T20:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Náutico-PE",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 12,
+        "date_time": "2008-07-16T20:30:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 12,
+        "date_time": "2008-07-16T21:45:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 12,
+        "date_time": "2008-07-16T21:45:00",
+        "home_team": "Vitória-BA",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 12,
+        "date_time": "2008-07-16T21:45:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 12,
+        "date_time": "2008-07-17T20:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 12,
+        "date_time": "2008-07-17T20:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 12,
+        "date_time": "2008-07-17T20:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 13,
+        "date_time": "2008-07-19T18:20:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 13,
+        "date_time": "2008-07-19T18:20:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 13,
+        "date_time": "2008-07-19T18:20:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 13,
+        "date_time": "2008-07-20T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Vasco-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 13,
+        "date_time": "2008-07-20T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Sport-PE",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 13,
+        "date_time": "2008-07-20T16:00:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 13,
+        "date_time": "2008-07-20T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 13,
+        "date_time": "2008-07-20T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 13,
+        "date_time": "2008-07-20T18:10:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Coritiba-PR",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 13,
+        "date_time": "2008-07-20T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Vitória-BA",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 14,
+        "date_time": "2008-07-23T19:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 14,
+        "date_time": "2008-07-23T19:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 14,
+        "date_time": "2008-07-23T20:30:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Náutico-PE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 14,
+        "date_time": "2008-07-23T21:50:00",
+        "home_team": "Internacional-RS",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 14,
+        "date_time": "2008-07-23T21:50:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 14,
+        "date_time": "2008-07-23T21:50:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 14,
+        "date_time": "2008-07-23T21:50:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 14,
+        "date_time": "2008-07-24T20:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 14,
+        "date_time": "2008-07-24T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 14,
+        "date_time": "2008-07-24T20:30:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 7,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 15,
+        "date_time": "2008-07-26T18:20:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 15,
+        "date_time": "2008-07-26T18:20:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 15,
+        "date_time": "2008-07-26T18:20:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 15,
+        "date_time": "2008-07-27T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Sport-PE",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 15,
+        "date_time": "2008-07-27T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Figueirense-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 15,
+        "date_time": "2008-07-27T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 5,
+        "away_goals": 2,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 15,
+        "date_time": "2008-07-27T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 15,
+        "date_time": "2008-07-27T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 15,
+        "date_time": "2008-07-27T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 15,
+        "date_time": "2008-07-27T18:10:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 16,
+        "date_time": "2008-07-30T19:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Náutico-PE",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 16,
+        "date_time": "2008-07-30T19:30:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 16,
+        "date_time": "2008-07-30T20:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 16,
+        "date_time": "2008-07-30T20:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 16,
+        "date_time": "2008-07-30T21:50:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 16,
+        "date_time": "2008-07-30T21:50:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 16,
+        "date_time": "2008-07-30T21:50:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 16,
+        "date_time": "2008-07-31T20:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 16,
+        "date_time": "2008-07-31T20:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 16,
+        "date_time": "2008-07-31T20:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 6,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 17,
+        "date_time": "2008-08-02T18:20:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 17,
+        "date_time": "2008-08-02T18:20:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 17,
+        "date_time": "2008-08-02T18:20:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 17,
+        "date_time": "2008-08-03T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 17,
+        "date_time": "2008-08-03T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 17,
+        "date_time": "2008-08-03T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 17,
+        "date_time": "2008-08-03T16:00:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 17,
+        "date_time": "2008-08-03T18:10:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 17,
+        "date_time": "2008-08-03T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 17,
+        "date_time": "2008-08-03T18:10:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Sport-PE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 18,
+        "date_time": "2008-08-06T19:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 18,
+        "date_time": "2008-08-06T19:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 18,
+        "date_time": "2008-08-06T20:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Náutico-PE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 18,
+        "date_time": "2008-08-06T20:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 18,
+        "date_time": "2008-08-06T21:50:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 18,
+        "date_time": "2008-08-06T21:50:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 18,
+        "date_time": "2008-08-06T21:50:00",
+        "home_team": "Santos-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 18,
+        "date_time": "2008-08-07T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Vitória-BA",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 18,
+        "date_time": "2008-08-07T20:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 18,
+        "date_time": "2008-08-07T20:30:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 19,
+        "date_time": "2008-08-09T18:20:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 4,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 19,
+        "date_time": "2008-08-09T18:20:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 19,
+        "date_time": "2008-08-09T18:20:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 19,
+        "date_time": "2008-08-10T16:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Vasco-RJ",
+        "home_goals": 5,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 19,
+        "date_time": "2008-08-10T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 19,
+        "date_time": "2008-08-10T16:00:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 19,
+        "date_time": "2008-08-10T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Sport-PE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 19,
+        "date_time": "2008-08-10T18:10:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 19,
+        "date_time": "2008-08-10T18:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 19,
+        "date_time": "2008-08-10T18:10:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 20,
+        "date_time": "2008-08-16T18:20:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 5,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 20,
+        "date_time": "2008-08-16T18:20:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 20,
+        "date_time": "2008-08-16T18:20:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 20,
+        "date_time": "2008-08-17T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 20,
+        "date_time": "2008-08-17T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Náutico-PE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 20,
+        "date_time": "2008-08-17T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 20,
+        "date_time": "2008-08-17T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 20,
+        "date_time": "2008-08-17T18:10:00",
+        "home_team": "Sport-PE",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 20,
+        "date_time": "2008-08-17T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 20,
+        "date_time": "2008-08-17T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 21,
+        "date_time": "2008-08-20T19:30:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Sport-PE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 21,
+        "date_time": "2008-08-20T19:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Figueirense-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 21,
+        "date_time": "2008-08-20T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 21,
+        "date_time": "2008-08-20T20:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 21,
+        "date_time": "2008-08-20T22:00:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 21,
+        "date_time": "2008-08-20T22:00:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 21,
+        "date_time": "2008-08-20T22:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 21,
+        "date_time": "2008-08-21T20:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 21,
+        "date_time": "2008-08-21T20:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 21,
+        "date_time": "2008-08-21T20:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Antônio Lins Ribeiro Guimarães",
+        "city": "Santa Bárbara d'Oeste"
+    },
+    {
+        "week": 22,
+        "date_time": "2008-08-23T18:20:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Sport-PE",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 22,
+        "date_time": "2008-08-23T18:20:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Vitória-BA",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 22,
+        "date_time": "2008-08-24T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 22,
+        "date_time": "2008-08-24T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 22,
+        "date_time": "2008-08-24T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 22,
+        "date_time": "2008-08-24T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 22,
+        "date_time": "2008-08-24T16:00:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 22,
+        "date_time": "2008-08-24T18:10:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 22,
+        "date_time": "2008-08-24T18:10:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 22,
+        "date_time": "2008-08-24T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 23,
+        "date_time": "2008-08-30T18:20:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 23,
+        "date_time": "2008-08-30T18:20:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 23,
+        "date_time": "2008-08-30T18:20:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Náutico-PE",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 23,
+        "date_time": "2008-08-31T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 23,
+        "date_time": "2008-08-31T16:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 23,
+        "date_time": "2008-08-31T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 23,
+        "date_time": "2008-08-31T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 23,
+        "date_time": "2008-08-31T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 23,
+        "date_time": "2008-08-31T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 23,
+        "date_time": "2008-08-31T18:10:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 24,
+        "date_time": "2008-09-03T19:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 24,
+        "date_time": "2008-09-03T22:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 24,
+        "date_time": "2008-09-03T22:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 24,
+        "date_time": "2008-09-03T22:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 24,
+        "date_time": "2008-09-04T20:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 24,
+        "date_time": "2008-09-04T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Sport-PE",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 24,
+        "date_time": "2008-09-06T18:20:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 24,
+        "date_time": "2008-09-06T18:20:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 24,
+        "date_time": "2008-09-06T18:20:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 24,
+        "date_time": "2008-09-06T18:20:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 25,
+        "date_time": "2008-09-13T18:20:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 25,
+        "date_time": "2008-09-13T18:20:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 25,
+        "date_time": "2008-09-13T18:20:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 25,
+        "date_time": "2008-09-14T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 25,
+        "date_time": "2008-09-14T16:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Figueirense-SC",
+        "home_goals": 5,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 25,
+        "date_time": "2008-09-14T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 25,
+        "date_time": "2008-09-14T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Náutico-PE",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 25,
+        "date_time": "2008-09-14T18:10:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 25,
+        "date_time": "2008-09-14T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 25,
+        "date_time": "2008-09-14T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 26,
+        "date_time": "2008-09-20T18:20:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 26,
+        "date_time": "2008-09-20T18:20:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Náutico-PE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 26,
+        "date_time": "2008-09-20T18:20:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Santos-SP",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 26,
+        "date_time": "2008-09-21T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 26,
+        "date_time": "2008-09-21T16:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 26,
+        "date_time": "2008-09-21T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 3,
+        "away_goals": 4,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 26,
+        "date_time": "2008-09-21T16:00:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 26,
+        "date_time": "2008-09-21T18:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Vitória-BA",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 26,
+        "date_time": "2008-09-21T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 26,
+        "date_time": "2008-09-21T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 27,
+        "date_time": "2008-09-27T18:20:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Sport-PE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 27,
+        "date_time": "2008-09-27T18:20:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Figueirense-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 27,
+        "date_time": "2008-09-27T18:20:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Vitória-BA",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 27,
+        "date_time": "2008-09-28T16:00:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 27,
+        "date_time": "2008-09-28T16:00:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Vasco-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 27,
+        "date_time": "2008-09-28T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 27,
+        "date_time": "2008-09-28T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 27,
+        "date_time": "2008-09-28T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 27,
+        "date_time": "2008-09-28T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 27,
+        "date_time": "2008-09-28T18:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Grêmio-RS",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 28,
+        "date_time": "2008-10-01T20:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 28,
+        "date_time": "2008-10-02T20:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Sport-PE",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 28,
+        "date_time": "2008-10-02T20:30:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 28,
+        "date_time": "2008-10-04T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 28,
+        "date_time": "2008-10-04T16:00:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 28,
+        "date_time": "2008-10-04T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 28,
+        "date_time": "2008-10-04T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 28,
+        "date_time": "2008-10-04T18:20:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 4,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 28,
+        "date_time": "2008-10-04T18:20:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Internacional-RS",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 28,
+        "date_time": "2008-10-04T18:20:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 29,
+        "date_time": "2008-10-08T22:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 29,
+        "date_time": "2008-10-08T22:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 29,
+        "date_time": "2008-10-08T22:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 29,
+        "date_time": "2008-10-09T20:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Vitória-BA",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 29,
+        "date_time": "2008-10-09T20:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 29,
+        "date_time": "2008-10-09T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Náutico-PE",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 29,
+        "date_time": "2008-10-11T18:20:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 29,
+        "date_time": "2008-10-11T18:20:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 29,
+        "date_time": "2008-10-11T18:20:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 29,
+        "date_time": "2008-10-11T18:20:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 30,
+        "date_time": "2008-10-18T18:20:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 30,
+        "date_time": "2008-10-18T18:20:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 30,
+        "date_time": "2008-10-18T18:20:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 30,
+        "date_time": "2008-10-19T16:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 30,
+        "date_time": "2008-10-19T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 30,
+        "date_time": "2008-10-19T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 30,
+        "date_time": "2008-10-19T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 30,
+        "date_time": "2008-10-19T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 30,
+        "date_time": "2008-10-19T18:10:00",
+        "home_team": "Sport-PE",
+        "away_team": "Náutico-PE",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 30,
+        "date_time": "2008-10-19T18:10:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 31,
+        "date_time": "2008-10-22T22:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 4,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 31,
+        "date_time": "2008-10-23T20:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 5,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 31,
+        "date_time": "2008-10-23T20:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Sport-PE",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 31,
+        "date_time": "2008-10-23T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 31,
+        "date_time": "2008-10-25T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 31,
+        "date_time": "2008-10-25T16:00:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 31,
+        "date_time": "2008-10-25T18:20:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 31,
+        "date_time": "2008-10-25T18:20:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 31,
+        "date_time": "2008-10-25T18:20:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 31,
+        "date_time": "2008-10-25T18:20:00",
+        "home_team": "Santos-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 32,
+        "date_time": "2008-10-29T19:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 32,
+        "date_time": "2008-10-29T19:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 32,
+        "date_time": "2008-10-29T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 32,
+        "date_time": "2008-10-29T20:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Náutico-PE",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 32,
+        "date_time": "2008-10-29T21:50:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 32,
+        "date_time": "2008-10-29T21:50:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Grêmio-RS",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 32,
+        "date_time": "2008-10-29T21:50:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 32,
+        "date_time": "2008-10-30T20:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 32,
+        "date_time": "2008-10-30T20:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 32,
+        "date_time": "2008-10-30T20:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 33,
+        "date_time": "2008-11-01T18:30:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Vitória-BA",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 33,
+        "date_time": "2008-11-01T18:30:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 33,
+        "date_time": "2008-11-01T18:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 33,
+        "date_time": "2008-11-02T17:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Sport-PE",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 33,
+        "date_time": "2008-11-02T17:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 33,
+        "date_time": "2008-11-02T17:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 33,
+        "date_time": "2008-11-02T17:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 33,
+        "date_time": "2008-11-02T19:10:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 33,
+        "date_time": "2008-11-02T19:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 33,
+        "date_time": "2008-11-02T19:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 34,
+        "date_time": "2008-11-08T18:30:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 34,
+        "date_time": "2008-11-08T18:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 34,
+        "date_time": "2008-11-08T18:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 34,
+        "date_time": "2008-11-09T17:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 34,
+        "date_time": "2008-11-09T17:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Náutico-PE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 34,
+        "date_time": "2008-11-09T17:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 34,
+        "date_time": "2008-11-09T17:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 34,
+        "date_time": "2008-11-09T19:10:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 34,
+        "date_time": "2008-11-09T19:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 34,
+        "date_time": "2008-11-09T19:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 35,
+        "date_time": "2008-11-12T22:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Vasco-RJ",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 35,
+        "date_time": "2008-11-15T18:30:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Sport-PE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 35,
+        "date_time": "2008-11-15T18:30:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 5,
+        "away_goals": 2,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 35,
+        "date_time": "2008-11-15T18:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 35,
+        "date_time": "2008-11-16T17:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 5,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 35,
+        "date_time": "2008-11-16T17:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 35,
+        "date_time": "2008-11-16T17:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 35,
+        "date_time": "2008-11-16T19:10:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 35,
+        "date_time": "2008-11-16T19:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 35,
+        "date_time": "2008-11-16T19:10:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 36,
+        "date_time": "2008-11-20T20:30:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Náutico-PE",
+        "home_goals": 4,
+        "away_goals": 3,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 36,
+        "date_time": "2008-11-22T18:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Santos-SP",
+        "home_goals": 5,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 36,
+        "date_time": "2008-11-22T18:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 36,
+        "date_time": "2008-11-22T18:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 36,
+        "date_time": "2008-11-23T17:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Grêmio-RS",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 36,
+        "date_time": "2008-11-23T17:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 36,
+        "date_time": "2008-11-23T17:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 36,
+        "date_time": "2008-11-23T19:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 36,
+        "date_time": "2008-11-23T19:10:00",
+        "home_team": "Sport-PE",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 36,
+        "date_time": "2008-11-23T19:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 37,
+        "date_time": "2008-11-30T17:00:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Sport-PE",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 37,
+        "date_time": "2008-11-30T17:00:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 37,
+        "date_time": "2008-11-30T17:00:00",
+        "home_team": "Ipatinga-MG",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "João Lamego Neto (Ipatingão)",
+        "city": "Ipatinga"
+    },
+    {
+        "week": 37,
+        "date_time": "2008-11-30T17:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Engenhão",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 37,
+        "date_time": "2008-11-30T17:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 37,
+        "date_time": "2008-11-30T17:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 37,
+        "date_time": "2008-11-30T17:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 37,
+        "date_time": "2008-11-30T17:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 37,
+        "date_time": "2008-11-30T17:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 37,
+        "date_time": "2008-11-30T17:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 38,
+        "date_time": "2008-12-07T17:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 5,
+        "away_goals": 3,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 38,
+        "date_time": "2008-12-07T17:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 38,
+        "date_time": "2008-12-07T17:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 38,
+        "date_time": "2008-12-07T17:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Coritiba-PR",
+        "home_goals": 4,
+        "away_goals": 3,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 38,
+        "date_time": "2008-12-07T17:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 38,
+        "date_time": "2008-12-07T17:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Náutico-PE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 38,
+        "date_time": "2008-12-07T17:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Bezerrão",
+        "city": "Gama"
+    },
+    {
+        "week": 38,
+        "date_time": "2008-12-07T17:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Ipatinga-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 38,
+        "date_time": "2008-12-07T17:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 38,
+        "date_time": "2008-12-07T17:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Vitória-BA",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    }
+]

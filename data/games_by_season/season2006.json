@@ -1,0 +1,3802 @@
+[
+    {
+        "week": 1,
+        "date_time": "2006-04-15T18:10:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 1,
+        "date_time": "2006-04-15T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 1,
+        "date_time": "2006-04-16T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 1,
+        "date_time": "2006-04-16T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 1,
+        "date_time": "2006-04-16T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 1,
+        "date_time": "2006-04-16T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 1,
+        "date_time": "2006-04-16T18:10:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Figueirense-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 1,
+        "date_time": "2006-04-16T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 1,
+        "date_time": "2006-04-16T18:10:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 1,
+        "date_time": "2006-04-16T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 2,
+        "date_time": "2006-04-22T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "São Caetano-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 2,
+        "date_time": "2006-04-22T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 2,
+        "date_time": "2006-04-22T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 6,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 2,
+        "date_time": "2006-04-23T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Juventude-RS",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 2,
+        "date_time": "2006-04-23T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Papa João Paulo II",
+        "city": "Mogi Mirim"
+    },
+    {
+        "week": 2,
+        "date_time": "2006-04-23T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 2,
+        "date_time": "2006-04-23T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 2,
+        "date_time": "2006-04-23T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Grêmio-RS",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 2,
+        "date_time": "2006-04-23T18:10:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 2,
+        "date_time": "2006-04-23T18:10:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 3,
+        "date_time": "2006-04-29T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "São Caetano-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 3,
+        "date_time": "2006-04-29T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 3,
+        "date_time": "2006-04-29T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 0,
+        "away_goals": 4,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 3,
+        "date_time": "2006-04-30T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 3,
+        "date_time": "2006-04-30T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 3,
+        "date_time": "2006-04-30T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Grêmio-RS",
+        "home_goals": 5,
+        "away_goals": 2,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 3,
+        "date_time": "2006-04-30T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 3,
+        "date_time": "2006-04-30T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 3,
+        "date_time": "2006-04-30T18:10:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 3,
+        "date_time": "2006-04-30T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 4,
+        "date_time": "2006-05-06T16:00:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 4,
+        "date_time": "2006-05-06T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Bruno José Daniel",
+        "city": "Santo André"
+    },
+    {
+        "week": 4,
+        "date_time": "2006-05-06T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Paraná-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 4,
+        "date_time": "2006-05-07T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Benedito Teixeira (Teixeirão)",
+        "city": "São José do Rio Preto"
+    },
+    {
+        "week": 4,
+        "date_time": "2006-05-07T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 4,
+        "date_time": "2006-05-07T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 4,
+        "date_time": "2006-05-07T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 4,
+        "date_time": "2006-05-07T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 4,
+        "date_time": "2006-05-07T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Juventude-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 4,
+        "date_time": "2006-05-07T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 5,
+        "date_time": "2006-05-13T18:10:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Juventude-RS",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 5,
+        "date_time": "2006-05-13T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 5,
+        "date_time": "2006-05-13T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 5,
+        "date_time": "2006-05-14T16:00:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 5,
+        "date_time": "2006-05-14T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 5,
+        "date_time": "2006-05-14T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 5,
+        "date_time": "2006-05-14T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "São Paulo-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 5,
+        "date_time": "2006-05-14T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 5,
+        "date_time": "2006-05-14T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 5,
+        "date_time": "2006-05-14T18:10:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Willie Davids",
+        "city": "Maringá"
+    },
+    {
+        "week": 6,
+        "date_time": "2006-05-20T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 6,
+        "date_time": "2006-05-20T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 6,
+        "date_time": "2006-05-20T18:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 4,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 6,
+        "date_time": "2006-05-20T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 6,
+        "date_time": "2006-05-21T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 4,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 6,
+        "date_time": "2006-05-21T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 6,
+        "date_time": "2006-05-21T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 6,
+        "date_time": "2006-05-21T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 6,
+        "date_time": "2006-05-21T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 6,
+        "date_time": "2006-05-21T18:10:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 7,
+        "date_time": "2006-05-24T19:30:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 7,
+        "date_time": "2006-05-24T19:30:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Figueirense-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 7,
+        "date_time": "2006-05-24T19:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 5,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 7,
+        "date_time": "2006-05-24T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 7,
+        "date_time": "2006-05-24T21:45:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 7,
+        "date_time": "2006-05-24T21:45:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 7,
+        "date_time": "2006-05-24T21:45:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 5,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 7,
+        "date_time": "2006-05-25T20:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 7,
+        "date_time": "2006-05-25T20:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 7,
+        "date_time": "2006-05-25T20:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 8,
+        "date_time": "2006-05-27T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 8,
+        "date_time": "2006-05-27T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Paraná-PR",
+        "home_goals": 2,
+        "away_goals": 5,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 8,
+        "date_time": "2006-05-27T18:10:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Juventude-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 8,
+        "date_time": "2006-05-28T16:00:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 8,
+        "date_time": "2006-05-28T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 8,
+        "date_time": "2006-05-28T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 8,
+        "date_time": "2006-05-28T16:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 8,
+        "date_time": "2006-05-28T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "São Caetano-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 8,
+        "date_time": "2006-05-28T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 8,
+        "date_time": "2006-05-28T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 9,
+        "date_time": "2006-05-31T19:30:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 9,
+        "date_time": "2006-05-31T19:30:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 9,
+        "date_time": "2006-05-31T19:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 9,
+        "date_time": "2006-05-31T20:30:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 9,
+        "date_time": "2006-05-31T21:45:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 9,
+        "date_time": "2006-05-31T21:45:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 9,
+        "date_time": "2006-05-31T21:45:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 9,
+        "date_time": "2006-06-01T20:30:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 9,
+        "date_time": "2006-06-01T20:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 9,
+        "date_time": "2006-06-01T20:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 10,
+        "date_time": "2006-06-03T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 10,
+        "date_time": "2006-06-03T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 10,
+        "date_time": "2006-06-03T18:10:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 10,
+        "date_time": "2006-06-04T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 10,
+        "date_time": "2006-06-04T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 10,
+        "date_time": "2006-06-04T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 10,
+        "date_time": "2006-06-04T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 10,
+        "date_time": "2006-06-04T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 10,
+        "date_time": "2006-06-04T18:10:00",
+        "home_team": "Juventude-RS",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 10,
+        "date_time": "2006-06-04T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 11,
+        "date_time": "2006-07-12T19:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 11,
+        "date_time": "2006-07-12T19:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 11,
+        "date_time": "2006-07-12T19:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Juventude-RS",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 11,
+        "date_time": "2006-07-12T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 11,
+        "date_time": "2006-07-12T21:45:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 11,
+        "date_time": "2006-07-12T21:45:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 11,
+        "date_time": "2006-07-12T21:45:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 11,
+        "date_time": "2006-07-13T20:30:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 11,
+        "date_time": "2006-07-13T20:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 11,
+        "date_time": "2006-07-13T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 12,
+        "date_time": "2006-07-15T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 12,
+        "date_time": "2006-07-15T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 12,
+        "date_time": "2006-07-16T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 4,
+        "away_goals": 4,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 12,
+        "date_time": "2006-07-16T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 12,
+        "date_time": "2006-07-16T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 12,
+        "date_time": "2006-07-16T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 12,
+        "date_time": "2006-07-16T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 12,
+        "date_time": "2006-07-16T18:10:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 12,
+        "date_time": "2006-07-16T18:10:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 12,
+        "date_time": "2006-07-16T18:10:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 13,
+        "date_time": "2006-07-22T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 13,
+        "date_time": "2006-07-22T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 13,
+        "date_time": "2006-07-22T18:10:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 13,
+        "date_time": "2006-07-22T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "São Caetano-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 13,
+        "date_time": "2006-07-23T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 13,
+        "date_time": "2006-07-23T16:00:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 13,
+        "date_time": "2006-07-23T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 13,
+        "date_time": "2006-07-23T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 13,
+        "date_time": "2006-07-23T18:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 13,
+        "date_time": "2006-07-23T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Juventude-RS",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 14,
+        "date_time": "2006-07-29T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 14,
+        "date_time": "2006-07-29T18:10:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 14,
+        "date_time": "2006-07-29T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Paraná-PR",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 14,
+        "date_time": "2006-07-30T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 14,
+        "date_time": "2006-07-30T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 14,
+        "date_time": "2006-07-30T16:00:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 14,
+        "date_time": "2006-07-30T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 4,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 14,
+        "date_time": "2006-07-30T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 14,
+        "date_time": "2006-07-30T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 14,
+        "date_time": "2006-07-30T18:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 15,
+        "date_time": "2006-08-05T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Juventude-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 15,
+        "date_time": "2006-08-05T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 15,
+        "date_time": "2006-08-05T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 15,
+        "date_time": "2006-08-05T18:10:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 15,
+        "date_time": "2006-08-06T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 15,
+        "date_time": "2006-08-06T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 15,
+        "date_time": "2006-08-06T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 15,
+        "date_time": "2006-08-06T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 15,
+        "date_time": "2006-08-06T18:10:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Presidente Vargas",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 15,
+        "date_time": "2006-08-06T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 16,
+        "date_time": "2006-08-12T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 16,
+        "date_time": "2006-08-12T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 16,
+        "date_time": "2006-08-12T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 16,
+        "date_time": "2006-08-12T18:10:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 16,
+        "date_time": "2006-08-13T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 16,
+        "date_time": "2006-08-13T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 16,
+        "date_time": "2006-08-13T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 16,
+        "date_time": "2006-08-13T18:10:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 16,
+        "date_time": "2006-08-13T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 16,
+        "date_time": "2006-08-13T18:10:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 17,
+        "date_time": "2006-08-16T19:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 17,
+        "date_time": "2006-08-16T19:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 17,
+        "date_time": "2006-08-16T19:30:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 4,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 17,
+        "date_time": "2006-08-16T20:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 17,
+        "date_time": "2006-08-16T22:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 17,
+        "date_time": "2006-08-16T22:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 17,
+        "date_time": "2006-08-17T20:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 17,
+        "date_time": "2006-08-17T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Juventude-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 17,
+        "date_time": "2006-09-30T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Paraná-PR",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 17,
+        "date_time": "2006-09-30T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 18,
+        "date_time": "2006-08-19T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 18,
+        "date_time": "2006-08-19T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 18,
+        "date_time": "2006-08-20T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 18,
+        "date_time": "2006-08-20T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Juventude-RS",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Presidente Vargas",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 18,
+        "date_time": "2006-08-20T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 18,
+        "date_time": "2006-08-20T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 18,
+        "date_time": "2006-08-20T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 18,
+        "date_time": "2006-08-20T18:10:00",
+        "home_team": "Paraná-PR",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 18,
+        "date_time": "2006-08-20T18:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 18,
+        "date_time": "2006-08-20T18:10:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 19,
+        "date_time": "2006-08-23T19:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 19,
+        "date_time": "2006-08-23T19:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 19,
+        "date_time": "2006-08-23T19:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 19,
+        "date_time": "2006-08-23T20:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 19,
+        "date_time": "2006-08-23T22:00:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 19,
+        "date_time": "2006-08-23T22:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 19,
+        "date_time": "2006-08-23T22:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 19,
+        "date_time": "2006-08-24T20:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 19,
+        "date_time": "2006-08-24T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Paraná-PR",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 19,
+        "date_time": "2006-08-24T20:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 20,
+        "date_time": "2006-08-26T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 20,
+        "date_time": "2006-08-26T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 20,
+        "date_time": "2006-08-26T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "São Caetano-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 20,
+        "date_time": "2006-08-27T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 20,
+        "date_time": "2006-08-27T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Juventude-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 20,
+        "date_time": "2006-08-27T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 20,
+        "date_time": "2006-08-27T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 20,
+        "date_time": "2006-08-27T18:10:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 20,
+        "date_time": "2006-08-27T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 20,
+        "date_time": "2006-08-27T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 21,
+        "date_time": "2006-08-30T19:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 21,
+        "date_time": "2006-08-30T19:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 21,
+        "date_time": "2006-08-30T19:30:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 21,
+        "date_time": "2006-08-30T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 21,
+        "date_time": "2006-08-30T22:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 21,
+        "date_time": "2006-08-30T22:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 21,
+        "date_time": "2006-08-30T22:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 21,
+        "date_time": "2006-08-31T20:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Paraná-PR",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 21,
+        "date_time": "2006-08-31T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 21,
+        "date_time": "2006-08-31T20:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 22,
+        "date_time": "2006-09-02T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 22,
+        "date_time": "2006-09-02T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 22,
+        "date_time": "2006-09-03T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 5,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 22,
+        "date_time": "2006-09-03T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Paraná-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 22,
+        "date_time": "2006-09-03T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 22,
+        "date_time": "2006-09-03T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Juventude-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 22,
+        "date_time": "2006-09-03T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 5,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 22,
+        "date_time": "2006-09-03T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 22,
+        "date_time": "2006-09-03T18:10:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 22,
+        "date_time": "2006-09-03T18:10:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 23,
+        "date_time": "2006-09-09T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 23,
+        "date_time": "2006-09-09T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "São Caetano-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 23,
+        "date_time": "2006-09-09T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 23,
+        "date_time": "2006-09-10T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 23,
+        "date_time": "2006-09-10T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 23,
+        "date_time": "2006-09-10T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 23,
+        "date_time": "2006-09-10T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 23,
+        "date_time": "2006-09-10T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 23,
+        "date_time": "2006-09-10T18:10:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Presidente Vargas",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 23,
+        "date_time": "2006-09-10T18:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 24,
+        "date_time": "2006-09-16T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 24,
+        "date_time": "2006-09-16T18:10:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 24,
+        "date_time": "2006-09-16T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 24,
+        "date_time": "2006-09-17T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 24,
+        "date_time": "2006-09-17T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 24,
+        "date_time": "2006-09-17T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 24,
+        "date_time": "2006-09-17T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 24,
+        "date_time": "2006-09-17T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 24,
+        "date_time": "2006-09-17T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 24,
+        "date_time": "2006-09-17T18:10:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 3,
+        "away_goals": 4,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 25,
+        "date_time": "2006-09-20T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 25,
+        "date_time": "2006-09-20T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 25,
+        "date_time": "2006-09-20T19:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Juventude-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 25,
+        "date_time": "2006-09-20T19:30:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 25,
+        "date_time": "2006-09-20T20:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 25,
+        "date_time": "2006-09-20T22:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 25,
+        "date_time": "2006-09-20T22:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 25,
+        "date_time": "2006-09-20T22:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 25,
+        "date_time": "2006-09-21T20:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 25,
+        "date_time": "2006-09-21T20:30:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 26,
+        "date_time": "2006-09-23T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 26,
+        "date_time": "2006-09-23T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "São Caetano-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 26,
+        "date_time": "2006-09-24T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 26,
+        "date_time": "2006-09-24T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Paraná-PR",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 26,
+        "date_time": "2006-09-24T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 26,
+        "date_time": "2006-09-24T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Prudentão",
+        "city": "Presidente Prudente"
+    },
+    {
+        "week": 26,
+        "date_time": "2006-09-24T16:00:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Juventude-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 26,
+        "date_time": "2006-09-24T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Grêmio-RS",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 26,
+        "date_time": "2006-09-24T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 26,
+        "date_time": "2006-09-24T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 27,
+        "date_time": "2006-10-04T19:30:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 27,
+        "date_time": "2006-10-04T19:30:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 27,
+        "date_time": "2006-10-04T19:30:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Presidente Vargas",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 27,
+        "date_time": "2006-10-04T20:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 27,
+        "date_time": "2006-10-04T22:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 27,
+        "date_time": "2006-10-04T22:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 5,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 27,
+        "date_time": "2006-10-04T22:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 27,
+        "date_time": "2006-10-05T20:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 27,
+        "date_time": "2006-10-05T20:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 27,
+        "date_time": "2006-10-05T20:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 28,
+        "date_time": "2006-10-07T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Juventude-RS",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 28,
+        "date_time": "2006-10-07T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 28,
+        "date_time": "2006-10-07T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 28,
+        "date_time": "2006-10-08T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 28,
+        "date_time": "2006-10-08T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 28,
+        "date_time": "2006-10-08T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 28,
+        "date_time": "2006-10-08T16:00:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 28,
+        "date_time": "2006-10-08T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Corinthians-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 28,
+        "date_time": "2006-10-08T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 28,
+        "date_time": "2006-10-08T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 29,
+        "date_time": "2006-10-14T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 29,
+        "date_time": "2006-10-14T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 4,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 29,
+        "date_time": "2006-10-14T18:10:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 29,
+        "date_time": "2006-10-14T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Juventude-RS",
+        "home_goals": 5,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 29,
+        "date_time": "2006-10-15T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 29,
+        "date_time": "2006-10-15T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 29,
+        "date_time": "2006-10-15T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 29,
+        "date_time": "2006-10-15T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 29,
+        "date_time": "2006-10-15T18:10:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 4,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 29,
+        "date_time": "2006-10-15T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 30,
+        "date_time": "2006-10-18T22:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 30,
+        "date_time": "2006-10-21T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 5,
+        "away_goals": 3,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 30,
+        "date_time": "2006-10-21T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 30,
+        "date_time": "2006-10-21T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 30,
+        "date_time": "2006-10-22T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 3,
+        "away_goals": 4,
+        "stadium": "Presidente Vargas",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 30,
+        "date_time": "2006-10-22T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 30,
+        "date_time": "2006-10-22T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 30,
+        "date_time": "2006-10-22T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "São Caetano-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 30,
+        "date_time": "2006-10-22T18:10:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 30,
+        "date_time": "2006-10-22T18:10:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 31,
+        "date_time": "2006-10-25T22:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 31,
+        "date_time": "2006-10-26T20:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 31,
+        "date_time": "2006-10-26T20:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Juventude-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 31,
+        "date_time": "2006-10-26T20:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 31,
+        "date_time": "2006-10-26T20:30:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 31,
+        "date_time": "2006-10-28T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 31,
+        "date_time": "2006-10-28T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Paraná-PR",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 31,
+        "date_time": "2006-10-28T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 31,
+        "date_time": "2006-10-28T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 31,
+        "date_time": "2006-10-28T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 32,
+        "date_time": "2006-11-01T19:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Vasco-RJ",
+        "home_goals": 6,
+        "away_goals": 4,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 32,
+        "date_time": "2006-11-01T19:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 32,
+        "date_time": "2006-11-01T19:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 32,
+        "date_time": "2006-11-01T20:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 32,
+        "date_time": "2006-11-01T21:45:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 32,
+        "date_time": "2006-11-01T21:45:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 32,
+        "date_time": "2006-11-01T21:45:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 4,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 32,
+        "date_time": "2006-11-02T20:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 32,
+        "date_time": "2006-11-02T20:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Paraná-PR",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 32,
+        "date_time": "2006-11-02T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 33,
+        "date_time": "2006-11-04T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Juventude-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 33,
+        "date_time": "2006-11-04T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 33,
+        "date_time": "2006-11-05T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 33,
+        "date_time": "2006-11-05T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 33,
+        "date_time": "2006-11-05T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 33,
+        "date_time": "2006-11-05T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 33,
+        "date_time": "2006-11-05T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 33,
+        "date_time": "2006-11-05T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 33,
+        "date_time": "2006-11-05T18:10:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 33,
+        "date_time": "2006-11-05T18:10:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 34,
+        "date_time": "2006-11-08T19:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Paraná-PR",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 34,
+        "date_time": "2006-11-08T19:30:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 34,
+        "date_time": "2006-11-08T19:30:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 34,
+        "date_time": "2006-11-08T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 34,
+        "date_time": "2006-11-08T21:45:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 34,
+        "date_time": "2006-11-08T21:45:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 34,
+        "date_time": "2006-11-08T21:45:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 34,
+        "date_time": "2006-11-09T20:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 34,
+        "date_time": "2006-11-09T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 34,
+        "date_time": "2006-11-09T20:30:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 35,
+        "date_time": "2006-11-11T18:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 35,
+        "date_time": "2006-11-11T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Juventude-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 35,
+        "date_time": "2006-11-11T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 35,
+        "date_time": "2006-11-12T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 35,
+        "date_time": "2006-11-12T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 35,
+        "date_time": "2006-11-12T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 35,
+        "date_time": "2006-11-12T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 35,
+        "date_time": "2006-11-12T18:10:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 35,
+        "date_time": "2006-11-12T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 35,
+        "date_time": "2006-11-12T18:10:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "São Caetano-SP",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 36,
+        "date_time": "2006-11-18T18:10:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 36,
+        "date_time": "2006-11-18T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 36,
+        "date_time": "2006-11-18T18:10:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 36,
+        "date_time": "2006-11-19T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 36,
+        "date_time": "2006-11-19T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 36,
+        "date_time": "2006-11-19T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 36,
+        "date_time": "2006-11-19T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 36,
+        "date_time": "2006-11-19T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 36,
+        "date_time": "2006-11-19T18:10:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Presidente Vargas",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 36,
+        "date_time": "2006-11-19T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 37,
+        "date_time": "2006-11-26T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 37,
+        "date_time": "2006-11-26T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Olímpico",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 37,
+        "date_time": "2006-11-26T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 37,
+        "date_time": "2006-11-26T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 37,
+        "date_time": "2006-11-26T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Paraná-PR",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 37,
+        "date_time": "2006-11-26T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 37,
+        "date_time": "2006-11-26T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 37,
+        "date_time": "2006-11-26T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 37,
+        "date_time": "2006-11-26T16:00:00",
+        "home_team": "Santa Cruz-PE",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arruda",
+        "city": "Recife"
+    },
+    {
+        "week": 37,
+        "date_time": "2006-11-26T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 38,
+        "date_time": "2006-12-02T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "São Caetano-SP",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 38,
+        "date_time": "2006-12-02T18:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 38,
+        "date_time": "2006-12-03T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 38,
+        "date_time": "2006-12-03T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 38,
+        "date_time": "2006-12-03T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 38,
+        "date_time": "2006-12-03T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 38,
+        "date_time": "2006-12-03T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 38,
+        "date_time": "2006-12-03T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Juventude-RS",
+        "home_goals": 5,
+        "away_goals": 3,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 38,
+        "date_time": "2006-12-03T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Santa Cruz-PE",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 38,
+        "date_time": "2006-12-03T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Presidente Vargas",
+        "city": "Fortaleza"
+    }
+]

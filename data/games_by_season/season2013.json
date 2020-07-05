@@ -1,0 +1,3802 @@
+[
+    {
+        "week": 1,
+        "date_time": "2013-05-25T18:30:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 1,
+        "date_time": "2013-05-25T18:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 1,
+        "date_time": "2013-05-25T21:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 1,
+        "date_time": "2013-05-26T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Náutico-PE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 1,
+        "date_time": "2013-05-26T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 1,
+        "date_time": "2013-05-26T16:00:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Bahia-BA",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 1,
+        "date_time": "2013-05-26T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 1,
+        "date_time": "2013-05-26T18:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Cláudio Moacyr",
+        "city": "Macaé"
+    },
+    {
+        "week": 1,
+        "date_time": "2013-05-26T18:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Goiás-GO",
+        "home_goals": 5,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 1,
+        "date_time": "2013-05-26T18:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 2,
+        "date_time": "2013-05-29T15:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Érton Coelho Queiróz",
+        "city": "Curitiba"
+    },
+    {
+        "week": 2,
+        "date_time": "2013-05-29T19:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 2,
+        "date_time": "2013-05-29T19:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 5,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 2,
+        "date_time": "2013-05-29T21:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Mário Helênio",
+        "city": "Juiz de Fora"
+    },
+    {
+        "week": 2,
+        "date_time": "2013-05-29T21:00:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Pituaçu",
+        "city": "Salvador"
+    },
+    {
+        "week": 2,
+        "date_time": "2013-05-29T21:00:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Vitória-BA",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 2,
+        "date_time": "2013-05-29T22:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 2,
+        "date_time": "2013-05-30T19:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Criciúma-SC",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 2,
+        "date_time": "2013-06-09T18:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena do Jacaré",
+        "city": "Sete Lagoas"
+    },
+    {
+        "week": 2,
+        "date_time": "2013-06-12T22:00:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 3,
+        "date_time": "2013-06-01T16:20:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 3,
+        "date_time": "2013-06-01T16:20:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 3,
+        "date_time": "2013-06-01T16:20:00",
+        "home_team": "Santos-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 3,
+        "date_time": "2013-06-01T18:30:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 3,
+        "date_time": "2013-06-01T18:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 3,
+        "date_time": "2013-06-01T21:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 3,
+        "date_time": "2013-06-02T18:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 3,
+        "date_time": "2013-06-02T18:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Criciúma-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Cláudio Moacyr",
+        "city": "Macaé"
+    },
+    {
+        "week": 3,
+        "date_time": "2013-06-02T18:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Bahia-BA",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 3,
+        "date_time": "2013-06-02T18:30:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Aflitos",
+        "city": "Recife"
+    },
+    {
+        "week": 4,
+        "date_time": "2013-06-05T19:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 4,
+        "date_time": "2013-06-05T19:30:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 4,
+        "date_time": "2013-06-05T19:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 4,
+        "date_time": "2013-06-05T21:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 4,
+        "date_time": "2013-06-05T21:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Vitória-BA",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 4,
+        "date_time": "2013-06-05T21:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 3,
+        "away_goals": 4,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 4,
+        "date_time": "2013-06-05T22:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Náutico-PE",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 4,
+        "date_time": "2013-06-05T22:00:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Lourival Baptista",
+        "city": "Aracaju"
+    },
+    {
+        "week": 4,
+        "date_time": "2013-06-05T22:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena do Jacaré",
+        "city": "Sete Lagoas"
+    },
+    {
+        "week": 4,
+        "date_time": "2013-06-06T21:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 5,
+        "date_time": "2013-06-08T16:20:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Arena do Jacaré",
+        "city": "Sete Lagoas"
+    },
+    {
+        "week": 5,
+        "date_time": "2013-06-08T16:20:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 5,
+        "date_time": "2013-06-08T18:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Bahia-BA",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 5,
+        "date_time": "2013-06-08T18:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 5,
+        "date_time": "2013-06-08T21:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 5,
+        "date_time": "2013-06-09T18:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Cláudio Moacyr",
+        "city": "Macaé"
+    },
+    {
+        "week": 5,
+        "date_time": "2013-06-09T18:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Náutico-PE",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 5,
+        "date_time": "2013-06-09T18:30:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Joia da Princesa",
+        "city": "Feira de Santana"
+    },
+    {
+        "week": 5,
+        "date_time": "2013-06-12T19:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 5,
+        "date_time": "2013-06-12T22:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 6,
+        "date_time": "2013-07-06T18:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 6,
+        "date_time": "2013-07-06T18:30:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 6,
+        "date_time": "2013-07-06T18:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 6,
+        "date_time": "2013-07-06T21:00:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 6,
+        "date_time": "2013-07-07T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 6,
+        "date_time": "2013-07-07T16:00:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 6,
+        "date_time": "2013-07-07T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Vasco-RJ",
+        "home_goals": 5,
+        "away_goals": 3,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 6,
+        "date_time": "2013-07-07T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Vitória-BA",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 6,
+        "date_time": "2013-07-07T18:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Criciúma-SC",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 6,
+        "date_time": "2013-07-07T18:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 7,
+        "date_time": "2013-07-13T18:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Cláudio Moacyr",
+        "city": "Macaé"
+    },
+    {
+        "week": 7,
+        "date_time": "2013-07-13T18:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 7,
+        "date_time": "2013-07-13T21:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Bahia-BA",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 7,
+        "date_time": "2013-07-14T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 7,
+        "date_time": "2013-07-14T16:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "São Paulo-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 7,
+        "date_time": "2013-07-14T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 7,
+        "date_time": "2013-07-14T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 7,
+        "date_time": "2013-07-14T18:30:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 7,
+        "date_time": "2013-07-14T18:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Náutico-PE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 7,
+        "date_time": "2013-07-14T18:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 8,
+        "date_time": "2013-07-20T18:30:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 8,
+        "date_time": "2013-07-20T18:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 8,
+        "date_time": "2013-07-20T21:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Náutico-PE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 8,
+        "date_time": "2013-07-21T16:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Bahia-BA",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 8,
+        "date_time": "2013-07-21T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 8,
+        "date_time": "2013-07-21T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 8,
+        "date_time": "2013-07-21T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 8,
+        "date_time": "2013-07-21T18:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 8,
+        "date_time": "2013-07-21T18:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 8,
+        "date_time": "2013-10-03T19:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 9,
+        "date_time": "2013-07-27T18:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Criciúma-SC",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 9,
+        "date_time": "2013-07-27T18:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 9,
+        "date_time": "2013-07-27T21:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 9,
+        "date_time": "2013-07-28T16:00:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 9,
+        "date_time": "2013-07-28T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 9,
+        "date_time": "2013-07-28T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 9,
+        "date_time": "2013-07-28T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 9,
+        "date_time": "2013-07-28T18:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Vitória-BA",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 9,
+        "date_time": "2013-07-28T18:30:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 9,
+        "date_time": "2013-07-28T18:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 10,
+        "date_time": "2013-07-31T19:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 10,
+        "date_time": "2013-07-31T19:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 10,
+        "date_time": "2013-07-31T19:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Criciúma-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 10,
+        "date_time": "2013-07-31T21:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 5,
+        "away_goals": 3,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 10,
+        "date_time": "2013-07-31T21:50:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 10,
+        "date_time": "2013-07-31T21:50:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 10,
+        "date_time": "2013-08-01T19:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 10,
+        "date_time": "2013-08-01T21:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 10,
+        "date_time": "2013-09-03T21:00:00",
+        "home_team": "Náutico-PE",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 10,
+        "date_time": "2013-09-10T19:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Vale",
+        "city": "Novo Hamburgo"
+    },
+    {
+        "week": 11,
+        "date_time": "2013-07-10T21:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Bahia-BA",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 11,
+        "date_time": "2013-08-03T18:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 11,
+        "date_time": "2013-08-04T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 11,
+        "date_time": "2013-08-04T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 11,
+        "date_time": "2013-08-04T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 11,
+        "date_time": "2013-08-04T16:00:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 11,
+        "date_time": "2013-08-04T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 11,
+        "date_time": "2013-08-04T18:30:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 11,
+        "date_time": "2013-08-04T18:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 11,
+        "date_time": "2013-09-25T21:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Náutico-PE",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 12,
+        "date_time": "2013-07-24T21:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 12,
+        "date_time": "2013-08-07T19:30:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 12,
+        "date_time": "2013-08-07T19:30:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 12,
+        "date_time": "2013-08-07T21:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 12,
+        "date_time": "2013-08-07T21:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Bahia-BA",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 12,
+        "date_time": "2013-08-07T21:50:00",
+        "home_team": "Santos-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 12,
+        "date_time": "2013-08-07T21:50:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 12,
+        "date_time": "2013-08-07T21:50:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Náutico-PE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 12,
+        "date_time": "2013-08-08T21:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 12,
+        "date_time": "2013-08-08T21:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 13,
+        "date_time": "2013-08-10T18:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 13,
+        "date_time": "2013-08-10T18:30:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 13,
+        "date_time": "2013-08-11T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 13,
+        "date_time": "2013-08-11T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 13,
+        "date_time": "2013-08-11T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 13,
+        "date_time": "2013-08-11T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 13,
+        "date_time": "2013-08-11T18:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 13,
+        "date_time": "2013-08-11T18:30:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 13,
+        "date_time": "2013-08-11T18:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Vale",
+        "city": "Novo Hamburgo"
+    },
+    {
+        "week": 13,
+        "date_time": "2013-08-11T18:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Criciúma-SC",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 14,
+        "date_time": "2013-08-14T19:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Bahia-BA",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 14,
+        "date_time": "2013-08-14T19:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 14,
+        "date_time": "2013-08-14T19:30:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Náutico-PE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 14,
+        "date_time": "2013-08-14T21:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 14,
+        "date_time": "2013-08-14T21:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 14,
+        "date_time": "2013-08-14T21:50:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 14,
+        "date_time": "2013-08-14T21:50:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 14,
+        "date_time": "2013-08-14T21:50:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 14,
+        "date_time": "2013-08-15T19:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 14,
+        "date_time": "2013-08-15T21:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 15,
+        "date_time": "2013-08-17T18:30:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 15,
+        "date_time": "2013-08-17T18:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Vitória-BA",
+        "home_goals": 5,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 15,
+        "date_time": "2013-08-17T21:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 15,
+        "date_time": "2013-08-18T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 15,
+        "date_time": "2013-08-18T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 15,
+        "date_time": "2013-08-18T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 15,
+        "date_time": "2013-08-18T16:00:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 15,
+        "date_time": "2013-08-18T18:30:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 15,
+        "date_time": "2013-08-18T18:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Vale",
+        "city": "Novo Hamburgo"
+    },
+    {
+        "week": 15,
+        "date_time": "2013-08-18T18:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Criciúma-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 16,
+        "date_time": "2013-08-24T18:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 16,
+        "date_time": "2013-08-24T18:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 16,
+        "date_time": "2013-08-24T18:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 16,
+        "date_time": "2013-08-24T21:00:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 16,
+        "date_time": "2013-08-25T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 16,
+        "date_time": "2013-08-25T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 16,
+        "date_time": "2013-08-25T16:00:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Náutico-PE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 16,
+        "date_time": "2013-08-25T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 16,
+        "date_time": "2013-08-25T18:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Goiás-GO",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Vale",
+        "city": "Novo Hamburgo"
+    },
+    {
+        "week": 16,
+        "date_time": "2013-08-25T18:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 17,
+        "date_time": "2013-08-31T18:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 17,
+        "date_time": "2013-08-31T18:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 17,
+        "date_time": "2013-08-31T18:30:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 17,
+        "date_time": "2013-08-31T18:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Bahia-BA",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 17,
+        "date_time": "2013-08-31T21:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 17,
+        "date_time": "2013-09-01T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 17,
+        "date_time": "2013-09-01T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 17,
+        "date_time": "2013-09-01T16:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Criciúma-SC",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 17,
+        "date_time": "2013-09-01T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 17,
+        "date_time": "2013-09-01T18:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Vasco-RJ",
+        "home_goals": 5,
+        "away_goals": 3,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 18,
+        "date_time": "2013-09-03T19:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 18,
+        "date_time": "2013-09-04T19:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 18,
+        "date_time": "2013-09-04T19:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 18,
+        "date_time": "2013-09-04T21:00:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 18,
+        "date_time": "2013-09-04T21:50:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 18,
+        "date_time": "2013-09-04T21:50:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Vale",
+        "city": "Novo Hamburgo"
+    },
+    {
+        "week": 18,
+        "date_time": "2013-09-04T21:50:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 18,
+        "date_time": "2013-09-05T19:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 18,
+        "date_time": "2013-09-05T21:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Criciúma-SC",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 18,
+        "date_time": "2013-09-05T21:00:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 19,
+        "date_time": "2013-09-07T18:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Bahia-BA",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 19,
+        "date_time": "2013-09-07T18:30:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 19,
+        "date_time": "2013-09-07T18:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 19,
+        "date_time": "2013-09-07T18:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 19,
+        "date_time": "2013-09-07T21:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 19,
+        "date_time": "2013-09-08T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Náutico-PE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 19,
+        "date_time": "2013-09-08T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 19,
+        "date_time": "2013-09-08T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 19,
+        "date_time": "2013-09-08T18:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 19,
+        "date_time": "2013-09-08T18:30:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 20,
+        "date_time": "2013-09-11T19:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 20,
+        "date_time": "2013-09-11T21:00:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Criciúma-SC",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 20,
+        "date_time": "2013-09-11T21:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 20,
+        "date_time": "2013-09-11T21:50:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 20,
+        "date_time": "2013-09-11T21:50:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 20,
+        "date_time": "2013-09-11T21:50:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 20,
+        "date_time": "2013-09-12T19:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Vale",
+        "city": "Novo Hamburgo"
+    },
+    {
+        "week": 20,
+        "date_time": "2013-09-12T21:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 20,
+        "date_time": "2013-09-12T21:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 20,
+        "date_time": "2013-09-12T21:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Coritiba-PR",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 21,
+        "date_time": "2013-09-14T18:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 21,
+        "date_time": "2013-09-14T21:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 21,
+        "date_time": "2013-09-15T16:00:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 21,
+        "date_time": "2013-09-15T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 21,
+        "date_time": "2013-09-15T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 21,
+        "date_time": "2013-09-15T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Bahia-BA",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 21,
+        "date_time": "2013-09-15T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 21,
+        "date_time": "2013-09-15T18:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 21,
+        "date_time": "2013-09-15T18:30:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Náutico-PE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 21,
+        "date_time": "2013-09-15T18:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 22,
+        "date_time": "2013-09-18T19:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 22,
+        "date_time": "2013-09-18T19:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Vitória-BA",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 22,
+        "date_time": "2013-09-18T21:00:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 22,
+        "date_time": "2013-09-18T21:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 22,
+        "date_time": "2013-09-18T21:50:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 22,
+        "date_time": "2013-09-18T21:50:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 22,
+        "date_time": "2013-09-18T21:50:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 22,
+        "date_time": "2013-09-19T19:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 4,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 22,
+        "date_time": "2013-09-19T21:00:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 22,
+        "date_time": "2013-09-19T21:00:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Náutico-PE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 23,
+        "date_time": "2013-09-21T18:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 23,
+        "date_time": "2013-09-21T21:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 23,
+        "date_time": "2013-09-22T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Vale",
+        "city": "Novo Hamburgo"
+    },
+    {
+        "week": 23,
+        "date_time": "2013-09-22T16:00:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 23,
+        "date_time": "2013-09-22T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 23,
+        "date_time": "2013-09-22T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Bahia-BA",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 23,
+        "date_time": "2013-09-22T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 23,
+        "date_time": "2013-09-22T18:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 23,
+        "date_time": "2013-09-22T18:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Criciúma-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 23,
+        "date_time": "2013-09-22T18:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 24,
+        "date_time": "2013-09-28T18:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 24,
+        "date_time": "2013-09-28T18:30:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Coritiba-PR",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 24,
+        "date_time": "2013-09-28T21:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 24,
+        "date_time": "2013-09-29T16:00:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Morenão",
+        "city": "Campo Grande"
+    },
+    {
+        "week": 24,
+        "date_time": "2013-09-29T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Criciúma-SC",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 24,
+        "date_time": "2013-09-29T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 24,
+        "date_time": "2013-09-29T16:00:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 24,
+        "date_time": "2013-09-29T18:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 24,
+        "date_time": "2013-09-29T18:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Vale",
+        "city": "Novo Hamburgo"
+    },
+    {
+        "week": 24,
+        "date_time": "2013-09-29T18:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Vitória-BA",
+        "home_goals": 3,
+        "away_goals": 5,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 25,
+        "date_time": "2013-09-25T19:30:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 25,
+        "date_time": "2013-10-01T19:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Náutico-PE",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 25,
+        "date_time": "2013-10-02T19:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 25,
+        "date_time": "2013-10-02T19:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 25,
+        "date_time": "2013-10-02T21:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 25,
+        "date_time": "2013-10-02T21:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 25,
+        "date_time": "2013-10-02T21:50:00",
+        "home_team": "Santos-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 25,
+        "date_time": "2013-10-02T21:50:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 25,
+        "date_time": "2013-10-02T21:50:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Bahia-BA",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Romildo Vitor Gomes Ferreira",
+        "city": "Mogi Mirim"
+    },
+    {
+        "week": 25,
+        "date_time": "2013-10-03T21:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Cláudio Moacyr",
+        "city": "Macaé"
+    },
+    {
+        "week": 26,
+        "date_time": "2013-10-05T18:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 26,
+        "date_time": "2013-10-05T21:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Vitória-BA",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 26,
+        "date_time": "2013-10-06T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 26,
+        "date_time": "2013-10-06T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 26,
+        "date_time": "2013-10-06T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 26,
+        "date_time": "2013-10-06T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 26,
+        "date_time": "2013-10-06T16:00:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 26,
+        "date_time": "2013-10-06T18:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 26,
+        "date_time": "2013-10-06T18:30:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 26,
+        "date_time": "2013-10-06T18:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Criciúma-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 27,
+        "date_time": "2013-10-09T19:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 27,
+        "date_time": "2013-10-09T19:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Criciúma-SC",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 27,
+        "date_time": "2013-10-09T21:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 27,
+        "date_time": "2013-10-09T21:00:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 27,
+        "date_time": "2013-10-09T21:50:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 27,
+        "date_time": "2013-10-09T21:50:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 27,
+        "date_time": "2013-10-09T21:50:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Romildo Vitor Gomes Ferreira",
+        "city": "Mogi Mirim"
+    },
+    {
+        "week": 27,
+        "date_time": "2013-10-09T21:50:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 27,
+        "date_time": "2013-10-10T19:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 27,
+        "date_time": "2013-10-10T21:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 28,
+        "date_time": "2013-10-12T18:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 28,
+        "date_time": "2013-10-12T18:30:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 28,
+        "date_time": "2013-10-12T21:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 28,
+        "date_time": "2013-10-13T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 28,
+        "date_time": "2013-10-13T16:00:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Vasco-RJ",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 28,
+        "date_time": "2013-10-13T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Náutico-PE",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 28,
+        "date_time": "2013-10-13T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 28,
+        "date_time": "2013-10-13T18:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 28,
+        "date_time": "2013-10-13T18:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Bahia-BA",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 28,
+        "date_time": "2013-10-13T18:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 29,
+        "date_time": "2013-10-16T19:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 29,
+        "date_time": "2013-10-16T19:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 29,
+        "date_time": "2013-10-16T21:00:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 29,
+        "date_time": "2013-10-16T21:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 29,
+        "date_time": "2013-10-16T21:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Náutico-PE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 29,
+        "date_time": "2013-10-16T21:50:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 29,
+        "date_time": "2013-10-16T21:50:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 29,
+        "date_time": "2013-10-16T21:50:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Bahia-BA",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 29,
+        "date_time": "2013-10-17T19:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Cláudio Moacyr",
+        "city": "Macaé"
+    },
+    {
+        "week": 29,
+        "date_time": "2013-10-17T21:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 30,
+        "date_time": "2013-10-19T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 30,
+        "date_time": "2013-10-19T18:30:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 5,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 30,
+        "date_time": "2013-10-19T21:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Criciúma-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Novelli Júnior",
+        "city": "Itú"
+    },
+    {
+        "week": 30,
+        "date_time": "2013-10-20T16:00:00",
+        "home_team": "Bahia-BA",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 30,
+        "date_time": "2013-10-20T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 30,
+        "date_time": "2013-10-20T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 30,
+        "date_time": "2013-10-20T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 30,
+        "date_time": "2013-10-20T18:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 30,
+        "date_time": "2013-10-20T18:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 30,
+        "date_time": "2013-10-20T18:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Vitória-BA",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 31,
+        "date_time": "2013-10-26T18:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Criciúma-SC",
+        "home_goals": 5,
+        "away_goals": 3,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 31,
+        "date_time": "2013-10-26T18:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 31,
+        "date_time": "2013-10-27T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 31,
+        "date_time": "2013-10-27T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena Fonte Luminosa",
+        "city": "Araraquara"
+    },
+    {
+        "week": 31,
+        "date_time": "2013-10-27T16:00:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 31,
+        "date_time": "2013-10-27T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 31,
+        "date_time": "2013-10-27T16:00:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 31,
+        "date_time": "2013-10-27T18:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Grêmio-RS",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 31,
+        "date_time": "2013-10-27T18:30:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 31,
+        "date_time": "2013-10-27T18:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 32,
+        "date_time": "2013-11-02T19:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 32,
+        "date_time": "2013-11-02T19:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Cláudio Moacyr",
+        "city": "Macaé"
+    },
+    {
+        "week": 32,
+        "date_time": "2013-11-02T21:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Náutico-PE",
+        "home_goals": 5,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 32,
+        "date_time": "2013-11-03T17:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 32,
+        "date_time": "2013-11-03T17:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 32,
+        "date_time": "2013-11-03T17:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 32,
+        "date_time": "2013-11-03T17:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Bahia-BA",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 32,
+        "date_time": "2013-11-03T19:30:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 32,
+        "date_time": "2013-11-03T19:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 32,
+        "date_time": "2013-11-03T19:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 33,
+        "date_time": "2013-11-09T19:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 33,
+        "date_time": "2013-11-09T19:30:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 33,
+        "date_time": "2013-11-09T21:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 33,
+        "date_time": "2013-11-10T17:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Grêmio-RS",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 33,
+        "date_time": "2013-11-10T17:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 33,
+        "date_time": "2013-11-10T17:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Vitória-BA",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 33,
+        "date_time": "2013-11-10T17:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "São Paulo-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Durival Britto e Silva",
+        "city": "Curitiba"
+    },
+    {
+        "week": 33,
+        "date_time": "2013-11-10T19:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 33,
+        "date_time": "2013-11-10T19:30:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Criciúma-SC",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 33,
+        "date_time": "2013-11-10T19:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Fonte Luminosa",
+        "city": "Araraquara"
+    },
+    {
+        "week": 34,
+        "date_time": "2013-11-13T19:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 34,
+        "date_time": "2013-11-13T19:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 34,
+        "date_time": "2013-11-13T21:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 34,
+        "date_time": "2013-11-13T21:00:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 34,
+        "date_time": "2013-11-13T21:50:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 34,
+        "date_time": "2013-11-13T21:50:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 34,
+        "date_time": "2013-11-13T21:50:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 34,
+        "date_time": "2013-11-14T19:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Bahia-BA",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 34,
+        "date_time": "2013-11-14T21:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 34,
+        "date_time": "2013-11-14T21:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Náutico-PE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 35,
+        "date_time": "2013-11-16T19:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 35,
+        "date_time": "2013-11-16T21:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Criciúma-SC",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 35,
+        "date_time": "2013-11-17T17:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 35,
+        "date_time": "2013-11-17T17:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 35,
+        "date_time": "2013-11-17T17:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Parque do Sabiá",
+        "city": "Uberlândia"
+    },
+    {
+        "week": 35,
+        "date_time": "2013-11-17T17:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 35,
+        "date_time": "2013-11-17T19:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 35,
+        "date_time": "2013-11-17T19:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 35,
+        "date_time": "2013-11-17T19:30:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 35,
+        "date_time": "2013-11-17T19:30:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Bahia-BA",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 36,
+        "date_time": "2013-11-23T19:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 36,
+        "date_time": "2013-11-23T19:30:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "Vitória-BA",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 36,
+        "date_time": "2013-11-23T21:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Goiás-GO",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 36,
+        "date_time": "2013-11-24T17:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 36,
+        "date_time": "2013-11-24T17:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 36,
+        "date_time": "2013-11-24T17:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Prudentão",
+        "city": "Presidente Prudente"
+    },
+    {
+        "week": 36,
+        "date_time": "2013-11-24T17:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Náutico-PE",
+        "home_goals": 6,
+        "away_goals": 1,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 36,
+        "date_time": "2013-11-24T19:30:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 36,
+        "date_time": "2013-11-24T19:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 36,
+        "date_time": "2013-11-24T19:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 37,
+        "date_time": "2013-11-30T19:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 37,
+        "date_time": "2013-11-30T21:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 37,
+        "date_time": "2013-12-01T17:00:00",
+        "home_team": "Criciúma-SC",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Heriberto Hulse",
+        "city": "Criciúma"
+    },
+    {
+        "week": 37,
+        "date_time": "2013-12-01T17:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Portuguesa-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 37,
+        "date_time": "2013-12-01T17:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 37,
+        "date_time": "2013-12-01T17:00:00",
+        "home_team": "Vitória-BA",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Manoel Barradas (Barradão)",
+        "city": "Salvador"
+    },
+    {
+        "week": 37,
+        "date_time": "2013-12-01T17:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Náutico-PE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 37,
+        "date_time": "2013-12-01T17:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Bahia-BA",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 37,
+        "date_time": "2013-12-01T19:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Benedito Teixeira (Teixeirão)",
+        "city": "São José do Rio Preto"
+    },
+    {
+        "week": 37,
+        "date_time": "2013-12-01T19:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 38,
+        "date_time": "2013-12-07T19:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 38,
+        "date_time": "2013-12-07T19:30:00",
+        "home_team": "Náutico-PE",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 38,
+        "date_time": "2013-12-08T17:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 38,
+        "date_time": "2013-12-08T17:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 38,
+        "date_time": "2013-12-08T17:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Criciúma-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 38,
+        "date_time": "2013-12-08T17:00:00",
+        "home_team": "Portuguesa-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Canindé",
+        "city": "São Paulo"
+    },
+    {
+        "week": 38,
+        "date_time": "2013-12-08T17:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Vasco-RJ",
+        "home_goals": 5,
+        "away_goals": 1,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 38,
+        "date_time": "2013-12-08T17:00:00",
+        "home_team": "Bahia-BA",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arena Fonte Nova",
+        "city": "Salvador"
+    },
+    {
+        "week": 38,
+        "date_time": "2013-12-08T17:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Novelli Júnior",
+        "city": "Itú"
+    },
+    {
+        "week": 38,
+        "date_time": "2013-12-08T17:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Vitória-BA",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    }
+]

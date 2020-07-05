@@ -1,0 +1,4622 @@
+[
+    {
+        "week": 1,
+        "date_time": "2005-04-23T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 1,
+        "date_time": "2005-04-23T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Figueirense-SC",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 1,
+        "date_time": "2005-04-23T18:10:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 1,
+        "date_time": "2005-04-23T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 1,
+        "date_time": "2005-04-24T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 1,
+        "date_time": "2005-04-24T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Juventude-RS",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 1,
+        "date_time": "2005-04-24T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 1,
+        "date_time": "2005-04-24T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Presidente Vargas",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 1,
+        "date_time": "2005-04-24T18:10:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 1,
+        "date_time": "2005-04-24T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Paysandu-PA",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 1,
+        "date_time": "2005-04-24T18:10:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 2,
+        "date_time": "2005-04-30T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "São Caetano-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 2,
+        "date_time": "2005-04-30T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 2,
+        "date_time": "2005-04-30T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 2,
+        "date_time": "2005-04-30T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 2,
+        "date_time": "2005-04-30T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 2,
+        "date_time": "2005-05-01T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 2,
+        "date_time": "2005-05-01T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 2,
+        "date_time": "2005-05-01T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 2,
+        "date_time": "2005-05-01T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 2,
+        "date_time": "2005-05-01T18:10:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 2,
+        "date_time": "2005-05-01T18:10:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 3,
+        "date_time": "2005-05-07T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Figueirense-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 3,
+        "date_time": "2005-05-07T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Juventude-RS",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 3,
+        "date_time": "2005-05-07T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Paysandu-PA",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 3,
+        "date_time": "2005-05-07T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 3,
+        "date_time": "2005-05-08T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 3,
+        "date_time": "2005-05-08T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 5,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 3,
+        "date_time": "2005-05-08T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 3,
+        "date_time": "2005-05-08T18:10:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 3,
+        "date_time": "2005-05-08T18:10:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 3,
+        "date_time": "2005-05-08T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 3,
+        "date_time": "2005-10-19T20:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 4,
+        "date_time": "2005-05-14T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Presidente Vargas",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 4,
+        "date_time": "2005-05-14T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 4,
+        "date_time": "2005-05-14T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 4,
+        "date_time": "2005-05-14T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 4,
+        "date_time": "2005-05-15T16:00:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "São Caetano-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 4,
+        "date_time": "2005-05-15T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Vasco-RJ",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 4,
+        "date_time": "2005-05-15T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 4,
+        "date_time": "2005-05-15T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Goiás-GO",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 4,
+        "date_time": "2005-05-15T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 4,
+        "date_time": "2005-05-15T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 4,
+        "date_time": "2005-05-15T18:10:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 5,
+        "date_time": "2005-05-21T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Paysandu-PA",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 5,
+        "date_time": "2005-05-21T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 5,
+        "date_time": "2005-05-21T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 5,
+        "date_time": "2005-05-21T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 5,
+        "date_time": "2005-05-21T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 4,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 5,
+        "date_time": "2005-05-22T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 5,
+        "date_time": "2005-05-22T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 5,
+        "date_time": "2005-05-22T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 5,
+        "date_time": "2005-05-22T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 5,
+        "date_time": "2005-05-22T18:10:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 5,
+        "date_time": "2005-05-22T18:10:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 6,
+        "date_time": "2005-05-28T16:00:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 6,
+        "date_time": "2005-05-28T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "São Caetano-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 6,
+        "date_time": "2005-05-28T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 6,
+        "date_time": "2005-05-29T16:00:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 6,
+        "date_time": "2005-05-29T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 6,
+        "date_time": "2005-05-29T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 6,
+        "date_time": "2005-05-29T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 6,
+        "date_time": "2005-05-29T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 6,
+        "date_time": "2005-05-29T18:10:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Juventude-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 6,
+        "date_time": "2005-05-29T18:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 6,
+        "date_time": "2005-05-29T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 7,
+        "date_time": "2005-06-11T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Figueirense-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 7,
+        "date_time": "2005-06-11T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 7,
+        "date_time": "2005-06-11T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 7,
+        "date_time": "2005-06-11T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 7,
+        "date_time": "2005-06-11T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Juventude-RS",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 7,
+        "date_time": "2005-06-11T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 7,
+        "date_time": "2005-06-12T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Romildo Vitor Gomes Ferreira",
+        "city": "Mogi Mirim"
+    },
+    {
+        "week": 7,
+        "date_time": "2005-06-12T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 7,
+        "date_time": "2005-06-12T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 7,
+        "date_time": "2005-06-12T18:10:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 7,
+        "date_time": "2005-06-12T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 8,
+        "date_time": "2005-06-18T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Paysandu-PA",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 8,
+        "date_time": "2005-06-18T16:00:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 4,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 8,
+        "date_time": "2005-06-18T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 5,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 8,
+        "date_time": "2005-06-18T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 8,
+        "date_time": "2005-06-18T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 8,
+        "date_time": "2005-06-18T18:10:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "São Caetano-SP",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 8,
+        "date_time": "2005-06-19T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 8,
+        "date_time": "2005-06-19T18:10:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Paraná-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 8,
+        "date_time": "2005-06-19T18:10:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 8,
+        "date_time": "2005-06-19T18:10:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 8,
+        "date_time": "2005-06-19T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 9,
+        "date_time": "2005-06-25T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 9,
+        "date_time": "2005-06-25T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 9,
+        "date_time": "2005-06-25T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 9,
+        "date_time": "2005-06-25T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 3,
+        "away_goals": 4,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 9,
+        "date_time": "2005-06-26T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 9,
+        "date_time": "2005-06-26T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 9,
+        "date_time": "2005-06-26T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 9,
+        "date_time": "2005-06-26T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Romildo Vitor Gomes Ferreira",
+        "city": "Mogi Mirim"
+    },
+    {
+        "week": 9,
+        "date_time": "2005-06-26T18:10:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 9,
+        "date_time": "2005-06-26T18:10:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 9,
+        "date_time": "2005-06-26T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Vasco-RJ",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 10,
+        "date_time": "2005-07-02T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Paysandu-PA",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 10,
+        "date_time": "2005-07-02T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Paraná-PR",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 10,
+        "date_time": "2005-07-02T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 10,
+        "date_time": "2005-07-03T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 10,
+        "date_time": "2005-07-03T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 10,
+        "date_time": "2005-07-03T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 10,
+        "date_time": "2005-07-03T18:10:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 10,
+        "date_time": "2005-07-03T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Juventude-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 10,
+        "date_time": "2005-07-03T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 10,
+        "date_time": "2005-07-03T18:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "São Caetano-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 10,
+        "date_time": "2005-10-19T21:50:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 11,
+        "date_time": "2005-07-09T16:00:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 11,
+        "date_time": "2005-07-09T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 11,
+        "date_time": "2005-07-09T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Figueirense-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 11,
+        "date_time": "2005-07-09T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 11,
+        "date_time": "2005-07-09T18:10:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 11,
+        "date_time": "2005-07-10T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 11,
+        "date_time": "2005-07-10T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 11,
+        "date_time": "2005-07-10T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 4,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 11,
+        "date_time": "2005-07-10T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 4,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 11,
+        "date_time": "2005-07-10T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 11,
+        "date_time": "2005-07-10T18:10:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 12,
+        "date_time": "2005-07-16T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 12,
+        "date_time": "2005-07-16T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 12,
+        "date_time": "2005-07-16T18:10:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Willie Davids",
+        "city": "Maringá"
+    },
+    {
+        "week": 12,
+        "date_time": "2005-07-16T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "São Caetano-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 12,
+        "date_time": "2005-07-17T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 12,
+        "date_time": "2005-07-17T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 12,
+        "date_time": "2005-07-17T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 12,
+        "date_time": "2005-07-17T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 12,
+        "date_time": "2005-07-17T18:10:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Juventude-RS",
+        "home_goals": 5,
+        "away_goals": 2,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 12,
+        "date_time": "2005-07-17T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 12,
+        "date_time": "2005-10-19T21:50:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 13,
+        "date_time": "2005-07-20T19:30:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 13,
+        "date_time": "2005-07-20T19:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 13,
+        "date_time": "2005-07-20T20:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 13,
+        "date_time": "2005-07-20T20:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 13,
+        "date_time": "2005-07-20T20:30:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 13,
+        "date_time": "2005-07-20T21:45:00",
+        "home_team": "Santos-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 13,
+        "date_time": "2005-07-20T21:45:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "São Paulo-SP",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 13,
+        "date_time": "2005-07-20T21:45:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 13,
+        "date_time": "2005-07-21T20:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Juventude-RS",
+        "home_goals": 3,
+        "away_goals": 4,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 13,
+        "date_time": "2005-07-21T20:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 13,
+        "date_time": "2005-07-21T20:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Paysandu-PA",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 14,
+        "date_time": "2005-07-23T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 14,
+        "date_time": "2005-07-23T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 14,
+        "date_time": "2005-07-23T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 14,
+        "date_time": "2005-07-23T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "São Caetano-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 14,
+        "date_time": "2005-07-24T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 14,
+        "date_time": "2005-07-24T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 14,
+        "date_time": "2005-07-24T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 14,
+        "date_time": "2005-07-24T18:10:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 14,
+        "date_time": "2005-07-24T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 14,
+        "date_time": "2005-07-24T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 14,
+        "date_time": "2005-10-19T20:30:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 15,
+        "date_time": "2005-07-27T19:30:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Juventude-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 15,
+        "date_time": "2005-07-27T20:30:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 15,
+        "date_time": "2005-07-27T20:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 15,
+        "date_time": "2005-07-27T20:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 4,
+        "away_goals": 3,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 15,
+        "date_time": "2005-07-27T21:45:00",
+        "home_team": "Santos-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 15,
+        "date_time": "2005-07-27T21:45:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 15,
+        "date_time": "2005-07-27T21:45:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Vasco-RJ",
+        "home_goals": 7,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 15,
+        "date_time": "2005-07-28T20:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Paraná-PR",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 15,
+        "date_time": "2005-07-28T20:30:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 15,
+        "date_time": "2005-07-28T20:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 15,
+        "date_time": "2005-07-28T20:30:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Paysandu-PA",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 16,
+        "date_time": "2005-07-30T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 16,
+        "date_time": "2005-07-30T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 16,
+        "date_time": "2005-07-30T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "São Caetano-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 16,
+        "date_time": "2005-07-31T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 16,
+        "date_time": "2005-07-31T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 16,
+        "date_time": "2005-07-31T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 16,
+        "date_time": "2005-07-31T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 16,
+        "date_time": "2005-07-31T18:10:00",
+        "home_team": "Juventude-RS",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 16,
+        "date_time": "2005-07-31T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 16,
+        "date_time": "2005-07-31T18:10:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Paraná-PR",
+        "home_goals": 3,
+        "away_goals": 4,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 16,
+        "date_time": "2005-10-13T20:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 17,
+        "date_time": "2005-08-03T19:30:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Juventude-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 17,
+        "date_time": "2005-08-03T19:30:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 17,
+        "date_time": "2005-08-03T20:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 17,
+        "date_time": "2005-08-03T20:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Paysandu-PA",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 17,
+        "date_time": "2005-08-03T20:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 17,
+        "date_time": "2005-08-03T21:45:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 17,
+        "date_time": "2005-08-03T21:45:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 17,
+        "date_time": "2005-08-03T21:45:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 17,
+        "date_time": "2005-08-04T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 17,
+        "date_time": "2005-08-04T20:30:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Figueirense-SC",
+        "home_goals": 5,
+        "away_goals": 2,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 17,
+        "date_time": "2005-08-04T20:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 18,
+        "date_time": "2005-08-06T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 5,
+        "away_goals": 4,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 18,
+        "date_time": "2005-08-06T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Paysandu-PA",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 18,
+        "date_time": "2005-08-06T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "São Caetano-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 18,
+        "date_time": "2005-08-07T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Willie Davids",
+        "city": "Maringá"
+    },
+    {
+        "week": 18,
+        "date_time": "2005-08-07T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 18,
+        "date_time": "2005-08-07T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 18,
+        "date_time": "2005-08-07T18:10:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 18,
+        "date_time": "2005-08-07T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 18,
+        "date_time": "2005-08-07T18:10:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 18,
+        "date_time": "2005-08-07T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 18,
+        "date_time": "2005-10-12T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 19,
+        "date_time": "2005-08-10T19:30:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 19,
+        "date_time": "2005-08-10T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 19,
+        "date_time": "2005-08-10T20:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 19,
+        "date_time": "2005-08-10T20:30:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 19,
+        "date_time": "2005-08-10T21:45:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "São Paulo-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 19,
+        "date_time": "2005-08-10T21:45:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 19,
+        "date_time": "2005-08-11T20:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 19,
+        "date_time": "2005-08-11T20:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 19,
+        "date_time": "2005-08-11T20:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Juventude-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 19,
+        "date_time": "2005-08-11T21:45:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 19,
+        "date_time": "2005-10-12T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 20,
+        "date_time": "2005-08-13T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "São Caetano-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 20,
+        "date_time": "2005-08-13T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 20,
+        "date_time": "2005-08-13T18:10:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 20,
+        "date_time": "2005-08-14T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 20,
+        "date_time": "2005-08-14T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 3,
+        "away_goals": 5,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 20,
+        "date_time": "2005-08-14T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Paraná-PR",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 20,
+        "date_time": "2005-08-14T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 20,
+        "date_time": "2005-08-14T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 20,
+        "date_time": "2005-08-14T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 20,
+        "date_time": "2005-08-14T18:10:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 20,
+        "date_time": "2005-10-12T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 3,
+        "away_goals": 4,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 21,
+        "date_time": "2005-08-20T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Juventude-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 21,
+        "date_time": "2005-08-20T18:10:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 21,
+        "date_time": "2005-08-20T18:10:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "São Paulo-SP",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 21,
+        "date_time": "2005-08-21T16:00:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 21,
+        "date_time": "2005-08-21T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 21,
+        "date_time": "2005-08-21T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 21,
+        "date_time": "2005-08-21T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 21,
+        "date_time": "2005-08-21T18:10:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 21,
+        "date_time": "2005-08-21T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 4,
+        "away_goals": 3,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 21,
+        "date_time": "2005-08-21T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Paysandu-PA",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 21,
+        "date_time": "2005-10-28T20:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Coritiba-PR",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 22,
+        "date_time": "2005-08-24T19:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 22,
+        "date_time": "2005-08-24T19:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "São Caetano-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 22,
+        "date_time": "2005-08-24T20:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 22,
+        "date_time": "2005-08-24T20:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 22,
+        "date_time": "2005-08-24T21:45:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 22,
+        "date_time": "2005-08-24T21:45:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 22,
+        "date_time": "2005-08-24T21:45:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 22,
+        "date_time": "2005-08-24T21:45:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 22,
+        "date_time": "2005-08-25T20:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 22,
+        "date_time": "2005-08-25T20:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 22,
+        "date_time": "2005-08-25T20:30:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 23,
+        "date_time": "2005-08-27T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 23,
+        "date_time": "2005-08-27T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Juventude-RS",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 23,
+        "date_time": "2005-08-27T16:00:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 23,
+        "date_time": "2005-08-28T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 23,
+        "date_time": "2005-08-28T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 23,
+        "date_time": "2005-08-28T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 23,
+        "date_time": "2005-08-28T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 23,
+        "date_time": "2005-08-28T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 4,
+        "stadium": "Willie Davids",
+        "city": "Maringá"
+    },
+    {
+        "week": 23,
+        "date_time": "2005-08-28T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 23,
+        "date_time": "2005-08-28T18:10:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Vasco-RJ",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 23,
+        "date_time": "2005-08-28T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Paysandu-PA",
+        "home_goals": 5,
+        "away_goals": 2,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 24,
+        "date_time": "2005-09-07T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Goiás-GO",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 24,
+        "date_time": "2005-09-07T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "São Caetano-SP",
+        "home_goals": 5,
+        "away_goals": 2,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 24,
+        "date_time": "2005-09-07T16:00:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 24,
+        "date_time": "2005-09-07T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 24,
+        "date_time": "2005-09-07T18:10:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Paraná-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 24,
+        "date_time": "2005-09-07T21:45:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 24,
+        "date_time": "2005-09-07T21:45:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 6,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 24,
+        "date_time": "2005-09-07T21:45:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 24,
+        "date_time": "2005-09-08T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 24,
+        "date_time": "2005-09-08T20:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 24,
+        "date_time": "2005-10-24T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 25,
+        "date_time": "2005-09-10T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Paysandu-PA",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 25,
+        "date_time": "2005-09-10T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 25,
+        "date_time": "2005-09-11T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Figueirense-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 25,
+        "date_time": "2005-09-11T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 25,
+        "date_time": "2005-09-11T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Juventude-RS",
+        "home_goals": 5,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 25,
+        "date_time": "2005-09-11T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 25,
+        "date_time": "2005-09-11T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Willie Davids",
+        "city": "Maringá"
+    },
+    {
+        "week": 25,
+        "date_time": "2005-09-11T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 25,
+        "date_time": "2005-09-11T18:10:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 25,
+        "date_time": "2005-09-11T18:10:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 25,
+        "date_time": "2005-10-24T20:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 26,
+        "date_time": "2005-09-17T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 26,
+        "date_time": "2005-09-17T17:00:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Juventude-RS",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 26,
+        "date_time": "2005-09-17T18:10:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "São Caetano-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 26,
+        "date_time": "2005-09-17T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 26,
+        "date_time": "2005-09-18T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 26,
+        "date_time": "2005-09-18T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 26,
+        "date_time": "2005-09-18T16:00:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 26,
+        "date_time": "2005-09-18T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 26,
+        "date_time": "2005-09-18T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 26,
+        "date_time": "2005-09-18T18:10:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 26,
+        "date_time": "2005-09-18T18:10:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 27,
+        "date_time": "2005-09-21T19:30:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 27,
+        "date_time": "2005-09-21T19:30:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 27,
+        "date_time": "2005-09-21T20:30:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 27,
+        "date_time": "2005-09-21T20:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Paysandu-PA",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 27,
+        "date_time": "2005-09-21T21:45:00",
+        "home_team": "Santos-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 27,
+        "date_time": "2005-09-21T21:45:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 27,
+        "date_time": "2005-09-21T21:45:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 27,
+        "date_time": "2005-09-22T20:30:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 27,
+        "date_time": "2005-09-22T20:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 27,
+        "date_time": "2005-09-22T20:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 27,
+        "date_time": "2005-09-22T20:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 28,
+        "date_time": "2005-09-24T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Paysandu-PA",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 28,
+        "date_time": "2005-09-24T16:00:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 28,
+        "date_time": "2005-09-24T17:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Paraná-PR",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 28,
+        "date_time": "2005-09-25T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 28,
+        "date_time": "2005-09-25T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 28,
+        "date_time": "2005-09-25T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 28,
+        "date_time": "2005-09-25T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 28,
+        "date_time": "2005-09-25T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 28,
+        "date_time": "2005-09-25T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 4,
+        "away_goals": 3,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 28,
+        "date_time": "2005-09-25T18:10:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 28,
+        "date_time": "2005-09-25T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 29,
+        "date_time": "2005-10-01T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Coritiba-PR",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 29,
+        "date_time": "2005-10-01T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Juventude-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 29,
+        "date_time": "2005-10-01T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 29,
+        "date_time": "2005-10-01T17:00:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Figueirense-SC",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Leonidas Castro (Curuzu)",
+        "city": "Belém"
+    },
+    {
+        "week": 29,
+        "date_time": "2005-10-01T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 29,
+        "date_time": "2005-10-01T18:10:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 29,
+        "date_time": "2005-10-02T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 29,
+        "date_time": "2005-10-02T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 29,
+        "date_time": "2005-10-02T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 29,
+        "date_time": "2005-10-02T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 29,
+        "date_time": "2005-10-02T18:10:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 30,
+        "date_time": "2005-10-04T20:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "São Caetano-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 30,
+        "date_time": "2005-10-04T20:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Juventude-RS",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 30,
+        "date_time": "2005-10-04T20:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 30,
+        "date_time": "2005-10-04T20:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Paraná-PR",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 30,
+        "date_time": "2005-10-05T19:30:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 30,
+        "date_time": "2005-10-05T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Paysandu-PA",
+        "home_goals": 5,
+        "away_goals": 3,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 30,
+        "date_time": "2005-10-05T20:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 30,
+        "date_time": "2005-10-05T20:30:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 30,
+        "date_time": "2005-10-05T21:45:00",
+        "home_team": "Internacional-RS",
+        "away_team": "São Paulo-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 30,
+        "date_time": "2005-10-05T21:45:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 30,
+        "date_time": "2005-10-05T21:45:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 31,
+        "date_time": "2005-10-08T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 31,
+        "date_time": "2005-10-08T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 31,
+        "date_time": "2005-10-08T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 6,
+        "away_goals": 1,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 31,
+        "date_time": "2005-10-08T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Figueirense-SC",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 31,
+        "date_time": "2005-10-08T18:10:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Vasco-RJ",
+        "home_goals": 4,
+        "away_goals": 3,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 31,
+        "date_time": "2005-10-08T18:10:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 31,
+        "date_time": "2005-10-11T20:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 31,
+        "date_time": "2005-10-11T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 31,
+        "date_time": "2005-10-11T20:30:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 31,
+        "date_time": "2005-10-11T20:30:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Leonidas Castro (Curuzu)",
+        "city": "Belém"
+    },
+    {
+        "week": 31,
+        "date_time": "2005-10-11T20:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 32,
+        "date_time": "2005-10-15T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Paysandu-PA",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 32,
+        "date_time": "2005-10-15T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 32,
+        "date_time": "2005-10-15T16:00:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Juventude-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 32,
+        "date_time": "2005-10-15T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Vasco-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 32,
+        "date_time": "2005-10-15T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 32,
+        "date_time": "2005-10-15T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 32,
+        "date_time": "2005-10-15T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 6,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 32,
+        "date_time": "2005-10-15T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Paraná-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 32,
+        "date_time": "2005-10-15T18:10:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 32,
+        "date_time": "2005-10-15T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 32,
+        "date_time": "2005-10-15T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 33,
+        "date_time": "2005-10-21T20:30:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 33,
+        "date_time": "2005-10-21T20:30:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 33,
+        "date_time": "2005-10-22T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 33,
+        "date_time": "2005-10-22T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 33,
+        "date_time": "2005-10-22T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Paraná-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 33,
+        "date_time": "2005-10-22T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 33,
+        "date_time": "2005-10-22T18:10:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 33,
+        "date_time": "2005-10-22T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 33,
+        "date_time": "2005-10-22T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Paysandu-PA",
+        "home_goals": 4,
+        "away_goals": 3,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 33,
+        "date_time": "2005-10-22T20:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 33,
+        "date_time": "2005-10-22T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 34,
+        "date_time": "2005-10-25T20:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 34,
+        "date_time": "2005-10-25T20:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 34,
+        "date_time": "2005-10-26T20:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 34,
+        "date_time": "2005-10-26T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 34,
+        "date_time": "2005-10-26T21:45:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 34,
+        "date_time": "2005-10-26T21:45:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 34,
+        "date_time": "2005-10-27T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 34,
+        "date_time": "2005-10-27T20:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 34,
+        "date_time": "2005-10-27T20:30:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 34,
+        "date_time": "2005-10-27T20:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 34,
+        "date_time": "2005-10-28T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 35,
+        "date_time": "2005-10-29T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Juventude-RS",
+        "home_goals": 4,
+        "away_goals": 3,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 35,
+        "date_time": "2005-10-29T17:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 35,
+        "date_time": "2005-10-30T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 35,
+        "date_time": "2005-10-30T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 35,
+        "date_time": "2005-10-30T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 35,
+        "date_time": "2005-10-30T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Paraná-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 35,
+        "date_time": "2005-10-30T18:10:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 35,
+        "date_time": "2005-10-30T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 4,
+        "away_goals": 3,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 35,
+        "date_time": "2005-10-30T18:10:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 35,
+        "date_time": "2005-10-31T20:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Paysandu-PA",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 35,
+        "date_time": "2005-10-31T20:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 36,
+        "date_time": "2005-11-02T20:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 36,
+        "date_time": "2005-11-02T20:30:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 36,
+        "date_time": "2005-11-02T21:45:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 36,
+        "date_time": "2005-11-02T21:45:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 36,
+        "date_time": "2005-11-02T21:45:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 36,
+        "date_time": "2005-11-03T19:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Figueirense-SC",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 36,
+        "date_time": "2005-11-03T20:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 36,
+        "date_time": "2005-11-03T20:30:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Olímpico Regional Arnaldo Busatto",
+        "city": "Cascavel"
+    },
+    {
+        "week": 36,
+        "date_time": "2005-11-03T20:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 36,
+        "date_time": "2005-11-03T20:30:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 36,
+        "date_time": "2005-11-03T21:30:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 37,
+        "date_time": "2005-11-05T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Juventude-RS",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 37,
+        "date_time": "2005-11-05T18:10:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 37,
+        "date_time": "2005-11-06T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 37,
+        "date_time": "2005-11-06T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Paysandu-PA",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 37,
+        "date_time": "2005-11-06T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 7,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 37,
+        "date_time": "2005-11-06T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 37,
+        "date_time": "2005-11-06T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 37,
+        "date_time": "2005-11-06T18:10:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 37,
+        "date_time": "2005-11-06T18:10:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 37,
+        "date_time": "2005-11-06T18:10:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 37,
+        "date_time": "2005-11-06T18:10:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 38,
+        "date_time": "2005-11-12T18:10:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 38,
+        "date_time": "2005-11-12T18:10:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 38,
+        "date_time": "2005-11-12T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Paraná-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 38,
+        "date_time": "2005-11-12T18:10:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 38,
+        "date_time": "2005-11-13T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 38,
+        "date_time": "2005-11-13T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 38,
+        "date_time": "2005-11-13T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 38,
+        "date_time": "2005-11-13T18:10:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 38,
+        "date_time": "2005-11-13T18:10:00",
+        "home_team": "Juventude-RS",
+        "away_team": "São Caetano-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 38,
+        "date_time": "2005-11-13T18:10:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 38,
+        "date_time": "2005-11-13T18:10:00",
+        "home_team": "Santos-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 4,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 39,
+        "date_time": "2005-11-16T19:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 39,
+        "date_time": "2005-11-16T19:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Juventude-RS",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 39,
+        "date_time": "2005-11-16T20:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 39,
+        "date_time": "2005-11-16T20:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "São Paulo-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 39,
+        "date_time": "2005-11-16T21:45:00",
+        "home_team": "Santos-SP",
+        "away_team": "Paraná-PR",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 39,
+        "date_time": "2005-11-16T21:45:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Vasco-RJ",
+        "home_goals": 5,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 39,
+        "date_time": "2005-11-16T21:45:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 39,
+        "date_time": "2005-11-17T20:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 39,
+        "date_time": "2005-11-17T20:30:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 39,
+        "date_time": "2005-11-17T20:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 39,
+        "date_time": "2005-11-17T20:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 40,
+        "date_time": "2005-11-19T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Centenário",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 40,
+        "date_time": "2005-11-19T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 40,
+        "date_time": "2005-11-19T18:10:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 40,
+        "date_time": "2005-11-20T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Paysandu-PA",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 40,
+        "date_time": "2005-11-20T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 40,
+        "date_time": "2005-11-20T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 40,
+        "date_time": "2005-11-20T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 40,
+        "date_time": "2005-11-20T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "São Caetano-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 40,
+        "date_time": "2005-11-20T18:10:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 6,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 40,
+        "date_time": "2005-11-20T18:10:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 5,
+        "away_goals": 1,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 40,
+        "date_time": "2005-11-20T18:10:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 41,
+        "date_time": "2005-11-27T16:00:00",
+        "home_team": "São Caetano-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Anacleto Campanella",
+        "city": "São Caetano do Sul"
+    },
+    {
+        "week": 41,
+        "date_time": "2005-11-27T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 41,
+        "date_time": "2005-11-27T16:00:00",
+        "home_team": "Paraná-PR",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Pinheirão",
+        "city": "Curitiba"
+    },
+    {
+        "week": 41,
+        "date_time": "2005-11-27T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Botafogo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 41,
+        "date_time": "2005-11-27T16:00:00",
+        "home_team": "Fortaleza-CE",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Castelão",
+        "city": "Fortaleza"
+    },
+    {
+        "week": 41,
+        "date_time": "2005-11-27T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Raulino de Oliveira",
+        "city": "Volta Redonda"
+    },
+    {
+        "week": 41,
+        "date_time": "2005-11-27T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Paysandu-PA",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 41,
+        "date_time": "2005-11-27T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Juventude-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 41,
+        "date_time": "2005-11-27T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 41,
+        "date_time": "2005-11-27T16:00:00",
+        "home_team": "Brasiliense-DF",
+        "away_team": "Figueirense-SC",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Elmo Serejo Farias (Serejão)",
+        "city": "Taguatinga"
+    },
+    {
+        "week": 41,
+        "date_time": "2005-11-27T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 42,
+        "date_time": "2005-12-04T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 42,
+        "date_time": "2005-12-04T16:00:00",
+        "home_team": "Juventude-RS",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Alfredo Jaconi",
+        "city": "Caxias do Sul"
+    },
+    {
+        "week": 42,
+        "date_time": "2005-12-04T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 42,
+        "date_time": "2005-12-04T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Brasiliense-DF",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 42,
+        "date_time": "2005-12-04T16:00:00",
+        "home_team": "Paysandu-PA",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Mangueirão",
+        "city": "Belém"
+    },
+    {
+        "week": 42,
+        "date_time": "2005-12-04T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Paraná-PR",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 42,
+        "date_time": "2005-12-04T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 42,
+        "date_time": "2005-12-04T16:00:00",
+        "home_team": "Botafogo-RJ",
+        "away_team": "Fortaleza-CE",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Luso-Brasileiro",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 42,
+        "date_time": "2005-12-04T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "São Caetano-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 42,
+        "date_time": "2005-12-04T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Palestra Itália",
+        "city": "São Paulo"
+    },
+    {
+        "week": 42,
+        "date_time": "2005-12-04T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Corinthians-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    }
+]

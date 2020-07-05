@@ -18,4 +18,4 @@ A falta de fontes de dados e estatísticas de times e jogadores do futebol brasi
 
 ## O Diário
 
-1. [Introdução](./diary/01-Introduction.ipynb): Uma introdução ao projeto relatando como ele será organizado e quais os passos para seu desenvolvimento;
+1. [Introdução](./diary/01-Introduction.pt-br.ipynb): Uma introdução ao projeto relatando como ele será organizado e quais os passos para seu desenvolvimento;

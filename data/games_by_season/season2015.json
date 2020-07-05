@@ -1,0 +1,3802 @@
+[
+    {
+        "week": 1,
+        "date_time": "2015-05-09T18:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 1,
+        "date_time": "2015-05-09T18:30:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 1,
+        "date_time": "2015-05-09T21:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Joinville-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 1,
+        "date_time": "2015-05-10T11:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 1,
+        "date_time": "2015-05-10T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 1,
+        "date_time": "2015-05-10T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arena Pantanal",
+        "city": "Cuiabá"
+    },
+    {
+        "week": 1,
+        "date_time": "2015-05-10T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 1,
+        "date_time": "2015-05-10T16:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Figueirense-SC",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 1,
+        "date_time": "2015-05-10T18:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 1,
+        "date_time": "2015-05-10T18:30:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 2,
+        "date_time": "2015-05-16T18:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 2,
+        "date_time": "2015-05-16T18:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 2,
+        "date_time": "2015-05-16T21:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Fonte Luminosa",
+        "city": "Araraquara"
+    },
+    {
+        "week": 2,
+        "date_time": "2015-05-17T11:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 2,
+        "date_time": "2015-05-17T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 2,
+        "date_time": "2015-05-17T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Sport-PE",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 2,
+        "date_time": "2015-05-17T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 2,
+        "date_time": "2015-05-17T18:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 2,
+        "date_time": "2015-05-17T18:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Avaí-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 2,
+        "date_time": "2015-05-17T18:30:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 3,
+        "date_time": "2015-05-23T18:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Joinville-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 3,
+        "date_time": "2015-05-23T18:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 3,
+        "date_time": "2015-05-23T21:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 3,
+        "date_time": "2015-05-24T11:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 3,
+        "date_time": "2015-05-24T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 3,
+        "date_time": "2015-05-24T16:00:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 3,
+        "date_time": "2015-05-24T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 3,
+        "date_time": "2015-05-24T16:00:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 3,
+        "date_time": "2015-05-24T18:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 3,
+        "date_time": "2015-05-24T18:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 4,
+        "date_time": "2015-05-30T18:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 4,
+        "date_time": "2015-05-30T18:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Avaí-SC",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 4,
+        "date_time": "2015-05-30T21:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 4,
+        "date_time": "2015-05-31T11:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Sport-PE",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 4,
+        "date_time": "2015-05-31T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 4,
+        "date_time": "2015-05-31T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 4,
+        "date_time": "2015-05-31T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Vasco-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 4,
+        "date_time": "2015-05-31T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 4,
+        "date_time": "2015-05-31T18:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 4,
+        "date_time": "2015-05-31T18:30:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 5,
+        "date_time": "2015-06-03T19:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 5,
+        "date_time": "2015-06-03T19:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 5,
+        "date_time": "2015-06-03T19:30:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Joinville-SC",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 5,
+        "date_time": "2015-06-03T21:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 5,
+        "date_time": "2015-06-03T22:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Corinthians-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 5,
+        "date_time": "2015-06-03T22:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 5,
+        "date_time": "2015-06-03T22:00:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 5,
+        "date_time": "2015-06-04T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 5,
+        "date_time": "2015-06-04T21:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 5,
+        "date_time": "2015-06-04T21:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 6,
+        "date_time": "2015-06-06T18:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 6,
+        "date_time": "2015-06-06T18:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 6,
+        "date_time": "2015-06-06T18:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 6,
+        "date_time": "2015-06-06T22:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 6,
+        "date_time": "2015-06-06T22:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 6,
+        "date_time": "2015-06-06T22:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 6,
+        "date_time": "2015-06-07T11:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 6,
+        "date_time": "2015-06-07T19:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Sport-PE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 6,
+        "date_time": "2015-06-07T19:30:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 6,
+        "date_time": "2015-06-07T19:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Avaí-SC",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 7,
+        "date_time": "2015-06-10T19:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 7,
+        "date_time": "2015-06-13T16:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 7,
+        "date_time": "2015-06-13T16:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 7,
+        "date_time": "2015-06-13T16:30:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 7,
+        "date_time": "2015-06-13T21:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 7,
+        "date_time": "2015-06-13T21:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Joinville-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 7,
+        "date_time": "2015-06-14T11:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 7,
+        "date_time": "2015-06-14T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 7,
+        "date_time": "2015-06-14T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 7,
+        "date_time": "2015-06-14T16:00:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 8,
+        "date_time": "2015-06-18T21:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 8,
+        "date_time": "2015-06-20T16:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 8,
+        "date_time": "2015-06-20T16:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 8,
+        "date_time": "2015-06-20T16:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 8,
+        "date_time": "2015-06-20T21:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 8,
+        "date_time": "2015-06-21T11:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 8,
+        "date_time": "2015-06-21T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Avaí-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 8,
+        "date_time": "2015-06-21T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 8,
+        "date_time": "2015-06-21T16:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 8,
+        "date_time": "2015-06-24T19:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 9,
+        "date_time": "2015-06-27T16:00:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 9,
+        "date_time": "2015-06-27T16:00:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Sport-PE",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 9,
+        "date_time": "2015-06-27T21:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 9,
+        "date_time": "2015-06-28T11:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Joinville-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 9,
+        "date_time": "2015-06-28T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 9,
+        "date_time": "2015-06-28T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 9,
+        "date_time": "2015-06-28T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 9,
+        "date_time": "2015-06-28T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 9,
+        "date_time": "2015-06-28T18:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Pantanal",
+        "city": "Cuiabá"
+    },
+    {
+        "week": 9,
+        "date_time": "2015-06-28T18:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 10,
+        "date_time": "2015-07-01T19:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Avaí-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 10,
+        "date_time": "2015-07-01T19:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 10,
+        "date_time": "2015-07-01T21:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 10,
+        "date_time": "2015-07-01T21:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 10,
+        "date_time": "2015-07-01T22:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 10,
+        "date_time": "2015-07-01T22:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 10,
+        "date_time": "2015-07-01T22:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 10,
+        "date_time": "2015-07-02T19:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 10,
+        "date_time": "2015-07-02T19:30:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Goiás-GO",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 10,
+        "date_time": "2015-07-02T21:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 11,
+        "date_time": "2015-07-04T15:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Joinville-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 11,
+        "date_time": "2015-07-04T21:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 11,
+        "date_time": "2015-07-04T21:00:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 11,
+        "date_time": "2015-07-05T11:00:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Sport-PE",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 11,
+        "date_time": "2015-07-05T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 11,
+        "date_time": "2015-07-05T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 11,
+        "date_time": "2015-07-05T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 11,
+        "date_time": "2015-07-05T18:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Arena Pantanal",
+        "city": "Cuiabá"
+    },
+    {
+        "week": 11,
+        "date_time": "2015-07-05T18:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 11,
+        "date_time": "2015-07-05T18:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 12,
+        "date_time": "2015-07-08T19:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 12,
+        "date_time": "2015-07-08T19:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Santos-SP",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 12,
+        "date_time": "2015-07-08T19:30:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 12,
+        "date_time": "2015-07-08T21:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Avaí-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 12,
+        "date_time": "2015-07-08T21:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Joinville-SC",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 12,
+        "date_time": "2015-07-08T22:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 4,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 12,
+        "date_time": "2015-07-08T22:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 12,
+        "date_time": "2015-07-08T22:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Sport-PE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 12,
+        "date_time": "2015-07-09T19:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 12,
+        "date_time": "2015-07-09T21:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 13,
+        "date_time": "2015-07-11T18:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 13,
+        "date_time": "2015-07-11T18:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 13,
+        "date_time": "2015-07-11T21:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 13,
+        "date_time": "2015-07-12T11:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 13,
+        "date_time": "2015-07-12T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 13,
+        "date_time": "2015-07-12T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 13,
+        "date_time": "2015-07-12T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 13,
+        "date_time": "2015-07-12T16:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 13,
+        "date_time": "2015-07-12T18:30:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 13,
+        "date_time": "2015-07-12T18:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 14,
+        "date_time": "2015-07-18T18:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 14,
+        "date_time": "2015-07-18T18:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 14,
+        "date_time": "2015-07-18T21:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 14,
+        "date_time": "2015-07-19T11:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 14,
+        "date_time": "2015-07-19T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 14,
+        "date_time": "2015-07-19T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 14,
+        "date_time": "2015-07-19T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 14,
+        "date_time": "2015-07-19T16:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 14,
+        "date_time": "2015-07-19T18:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Avaí-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 14,
+        "date_time": "2015-07-19T18:30:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 15,
+        "date_time": "2015-07-25T18:30:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 15,
+        "date_time": "2015-07-25T19:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Sport-PE",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 15,
+        "date_time": "2015-07-25T21:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 15,
+        "date_time": "2015-07-26T11:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Joinville-SC",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 15,
+        "date_time": "2015-07-26T11:00:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 15,
+        "date_time": "2015-07-26T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 15,
+        "date_time": "2015-07-26T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 15,
+        "date_time": "2015-07-26T16:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 15,
+        "date_time": "2015-07-26T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 15,
+        "date_time": "2015-07-26T18:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 16,
+        "date_time": "2015-07-29T22:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 16,
+        "date_time": "2015-07-29T22:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "São Paulo-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 16,
+        "date_time": "2015-08-01T18:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 16,
+        "date_time": "2015-08-02T11:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 16,
+        "date_time": "2015-08-02T11:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 16,
+        "date_time": "2015-08-02T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 16,
+        "date_time": "2015-08-02T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 16,
+        "date_time": "2015-08-02T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 16,
+        "date_time": "2015-08-02T16:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Avaí-SC",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 16,
+        "date_time": "2015-08-02T18:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 17,
+        "date_time": "2015-08-08T18:30:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 17,
+        "date_time": "2015-08-08T21:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 17,
+        "date_time": "2015-08-09T11:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Joinville-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 17,
+        "date_time": "2015-08-09T11:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Sport-PE",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 17,
+        "date_time": "2015-08-09T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 17,
+        "date_time": "2015-08-09T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 17,
+        "date_time": "2015-08-09T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 17,
+        "date_time": "2015-08-09T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 17,
+        "date_time": "2015-08-09T18:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Internacional-RS",
+        "home_goals": 5,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 17,
+        "date_time": "2015-08-09T18:30:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 18,
+        "date_time": "2015-08-12T19:30:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 18,
+        "date_time": "2015-08-12T19:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 18,
+        "date_time": "2015-08-12T21:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 18,
+        "date_time": "2015-08-12T21:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 18,
+        "date_time": "2015-08-12T22:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Sport-PE",
+        "home_goals": 4,
+        "away_goals": 3,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 18,
+        "date_time": "2015-08-12T22:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 18,
+        "date_time": "2015-08-12T22:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 18,
+        "date_time": "2015-08-13T19:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Avaí-SC",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 18,
+        "date_time": "2015-08-13T21:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 18,
+        "date_time": "2015-08-13T21:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 19,
+        "date_time": "2015-08-15T18:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 19,
+        "date_time": "2015-08-15T18:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 19,
+        "date_time": "2015-08-15T21:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 19,
+        "date_time": "2015-08-16T11:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 19,
+        "date_time": "2015-08-16T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 19,
+        "date_time": "2015-08-16T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 19,
+        "date_time": "2015-08-16T16:00:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 19,
+        "date_time": "2015-08-16T16:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 19,
+        "date_time": "2015-08-16T18:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Joinville-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 19,
+        "date_time": "2015-08-16T18:30:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 20,
+        "date_time": "2015-08-22T18:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Avaí-SC",
+        "home_goals": 5,
+        "away_goals": 2,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 20,
+        "date_time": "2015-08-22T18:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Vasco-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 20,
+        "date_time": "2015-08-22T21:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Sport-PE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 20,
+        "date_time": "2015-08-23T11:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 20,
+        "date_time": "2015-08-23T11:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 20,
+        "date_time": "2015-08-23T16:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 20,
+        "date_time": "2015-08-23T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 20,
+        "date_time": "2015-08-23T16:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 20,
+        "date_time": "2015-08-23T16:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 20,
+        "date_time": "2015-08-23T18:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 21,
+        "date_time": "2015-08-29T18:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Figueirense-SC",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 21,
+        "date_time": "2015-08-29T21:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 21,
+        "date_time": "2015-08-30T11:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 21,
+        "date_time": "2015-08-30T11:00:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 21,
+        "date_time": "2015-08-30T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Joinville-SC",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 21,
+        "date_time": "2015-08-30T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 21,
+        "date_time": "2015-08-30T16:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 21,
+        "date_time": "2015-08-30T16:00:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 21,
+        "date_time": "2015-08-30T18:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 21,
+        "date_time": "2015-08-30T18:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Goiás-GO",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 22,
+        "date_time": "2015-09-02T19:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 22,
+        "date_time": "2015-09-02T19:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Vasco-RJ",
+        "home_goals": 6,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 22,
+        "date_time": "2015-09-02T19:30:00",
+        "home_team": "Joinville-SC",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 22,
+        "date_time": "2015-09-02T21:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Avaí-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arena das Dunas",
+        "city": "Natal"
+    },
+    {
+        "week": 22,
+        "date_time": "2015-09-02T21:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 22,
+        "date_time": "2015-09-02T22:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 22,
+        "date_time": "2015-09-02T22:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Sport-PE",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 22,
+        "date_time": "2015-09-02T22:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 22,
+        "date_time": "2015-09-03T19:30:00",
+        "home_team": "Santos-SP",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 22,
+        "date_time": "2015-09-03T21:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 23,
+        "date_time": "2015-09-05T19:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 23,
+        "date_time": "2015-09-05T19:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 23,
+        "date_time": "2015-09-05T21:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Joinville-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 23,
+        "date_time": "2015-09-06T11:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Figueirense-SC",
+        "home_goals": 5,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 23,
+        "date_time": "2015-09-06T11:00:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 23,
+        "date_time": "2015-09-06T16:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 23,
+        "date_time": "2015-09-06T16:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 23,
+        "date_time": "2015-09-06T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 23,
+        "date_time": "2015-09-06T16:00:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 23,
+        "date_time": "2015-09-06T18:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 24,
+        "date_time": "2015-09-09T19:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 24,
+        "date_time": "2015-09-09T19:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 24,
+        "date_time": "2015-09-09T19:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Avaí-SC",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 24,
+        "date_time": "2015-09-09T21:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 24,
+        "date_time": "2015-09-09T22:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 24,
+        "date_time": "2015-09-09T22:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 24,
+        "date_time": "2015-09-09T22:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 24,
+        "date_time": "2015-09-10T19:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Sport-PE",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 24,
+        "date_time": "2015-09-10T21:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 24,
+        "date_time": "2015-09-10T21:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 25,
+        "date_time": "2015-09-12T18:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 25,
+        "date_time": "2015-09-12T21:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 25,
+        "date_time": "2015-09-13T11:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Joinville-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 25,
+        "date_time": "2015-09-13T11:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 25,
+        "date_time": "2015-09-13T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 25,
+        "date_time": "2015-09-13T16:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 25,
+        "date_time": "2015-09-13T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 25,
+        "date_time": "2015-09-13T16:00:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 25,
+        "date_time": "2015-09-13T18:30:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 25,
+        "date_time": "2015-09-13T18:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 26,
+        "date_time": "2015-09-16T19:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 26,
+        "date_time": "2015-09-16T19:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 26,
+        "date_time": "2015-09-16T19:30:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Sport-PE",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 26,
+        "date_time": "2015-09-16T21:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Avaí-SC",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 26,
+        "date_time": "2015-09-16T21:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 26,
+        "date_time": "2015-09-16T22:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 4,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 26,
+        "date_time": "2015-09-16T22:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 26,
+        "date_time": "2015-09-16T22:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 26,
+        "date_time": "2015-09-17T19:30:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 26,
+        "date_time": "2015-09-17T21:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 27,
+        "date_time": "2015-09-19T18:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Grêmio-RS",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 27,
+        "date_time": "2015-09-19T18:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 27,
+        "date_time": "2015-09-19T21:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 27,
+        "date_time": "2015-09-20T11:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Santos-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 27,
+        "date_time": "2015-09-20T11:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Joinville-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 27,
+        "date_time": "2015-09-20T16:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Sport-PE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 27,
+        "date_time": "2015-09-20T16:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 27,
+        "date_time": "2015-09-20T16:00:00",
+        "home_team": "Avaí-SC",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 27,
+        "date_time": "2015-09-20T18:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 27,
+        "date_time": "2015-09-20T18:30:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 28,
+        "date_time": "2015-09-26T18:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 28,
+        "date_time": "2015-09-26T21:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Avaí-SC",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 28,
+        "date_time": "2015-09-27T11:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Internacional-RS",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 28,
+        "date_time": "2015-09-27T11:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 28,
+        "date_time": "2015-09-27T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 28,
+        "date_time": "2015-09-27T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 28,
+        "date_time": "2015-09-27T16:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 28,
+        "date_time": "2015-09-27T16:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 28,
+        "date_time": "2015-09-27T18:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 28,
+        "date_time": "2015-09-27T18:30:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 29,
+        "date_time": "2015-10-03T18:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Sport-PE",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 29,
+        "date_time": "2015-10-03T18:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 29,
+        "date_time": "2015-10-03T21:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 29,
+        "date_time": "2015-10-04T11:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Joinville-SC",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 29,
+        "date_time": "2015-10-04T11:00:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 29,
+        "date_time": "2015-10-04T16:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 29,
+        "date_time": "2015-10-04T16:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 29,
+        "date_time": "2015-10-04T16:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 29,
+        "date_time": "2015-10-04T16:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Figueirense-SC",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 29,
+        "date_time": "2015-10-04T18:30:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 5,
+        "away_goals": 1,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 30,
+        "date_time": "2015-10-14T19:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 30,
+        "date_time": "2015-10-14T19:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Avaí-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 30,
+        "date_time": "2015-10-14T21:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 30,
+        "date_time": "2015-10-14T21:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 30,
+        "date_time": "2015-10-14T21:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Coritiba-PR",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 30,
+        "date_time": "2015-10-14T22:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 30,
+        "date_time": "2015-10-14T22:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 30,
+        "date_time": "2015-10-15T19:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 30,
+        "date_time": "2015-10-15T19:30:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 30,
+        "date_time": "2015-10-15T21:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 31,
+        "date_time": "2015-10-17T18:30:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 31,
+        "date_time": "2015-10-17T21:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 31,
+        "date_time": "2015-10-18T11:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 31,
+        "date_time": "2015-10-18T11:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 31,
+        "date_time": "2015-10-18T16:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 31,
+        "date_time": "2015-10-18T16:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 31,
+        "date_time": "2015-10-18T16:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 4,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 31,
+        "date_time": "2015-10-18T17:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Goiás-GO",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 31,
+        "date_time": "2015-10-18T17:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 31,
+        "date_time": "2015-10-18T18:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 32,
+        "date_time": "2015-10-24T17:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 32,
+        "date_time": "2015-10-24T18:30:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Joinville-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 32,
+        "date_time": "2015-10-24T18:30:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 32,
+        "date_time": "2015-10-24T21:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Sport-PE",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Pacaembu",
+        "city": "São Paulo"
+    },
+    {
+        "week": 32,
+        "date_time": "2015-10-25T17:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 32,
+        "date_time": "2015-10-25T17:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 32,
+        "date_time": "2015-10-25T17:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "São Paulo-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 32,
+        "date_time": "2015-10-25T17:00:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Avaí-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 32,
+        "date_time": "2015-10-25T18:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 32,
+        "date_time": "2015-10-25T19:30:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 33,
+        "date_time": "2015-10-31T17:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Sport-PE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 33,
+        "date_time": "2015-10-31T19:30:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Joinville-SC",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 33,
+        "date_time": "2015-10-31T19:30:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 33,
+        "date_time": "2015-10-31T21:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Figueirense-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 33,
+        "date_time": "2015-11-01T17:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 33,
+        "date_time": "2015-11-01T17:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 33,
+        "date_time": "2015-11-01T17:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Corinthians-SP",
+        "home_goals": 0,
+        "away_goals": 3,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 33,
+        "date_time": "2015-11-01T17:00:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 33,
+        "date_time": "2015-11-01T18:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Nilton Santos",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 33,
+        "date_time": "2015-11-01T19:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Internacional-RS",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 34,
+        "date_time": "2015-11-07T17:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 34,
+        "date_time": "2015-11-07T19:30:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 34,
+        "date_time": "2015-11-07T19:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Avaí-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 34,
+        "date_time": "2015-11-07T21:00:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 2,
+        "away_goals": 3,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 34,
+        "date_time": "2015-11-08T17:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 34,
+        "date_time": "2015-11-08T17:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Goiás-GO",
+        "home_goals": 4,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 34,
+        "date_time": "2015-11-08T17:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "São Paulo-SP",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 34,
+        "date_time": "2015-11-08T17:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 34,
+        "date_time": "2015-11-08T18:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Santos-SP",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 34,
+        "date_time": "2015-11-08T19:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 35,
+        "date_time": "2015-11-15T17:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Sport-PE",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 35,
+        "date_time": "2015-11-18T19:30:00",
+        "home_team": "Goiás-GO",
+        "away_team": "Coritiba-PR",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 35,
+        "date_time": "2015-11-18T21:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 35,
+        "date_time": "2015-11-18T21:00:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Joinville-SC",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 35,
+        "date_time": "2015-11-18T21:00:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 3,
+        "away_goals": 3,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 35,
+        "date_time": "2015-11-19T19:30:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 35,
+        "date_time": "2015-11-19T19:30:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 35,
+        "date_time": "2015-11-19T22:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 4,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 35,
+        "date_time": "2015-11-19T22:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 35,
+        "date_time": "2015-11-19T22:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Corinthians-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 36,
+        "date_time": "2015-11-21T19:30:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 36,
+        "date_time": "2015-11-22T17:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "São Paulo-SP",
+        "home_goals": 6,
+        "away_goals": 1,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 36,
+        "date_time": "2015-11-22T17:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Grêmio-RS",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 36,
+        "date_time": "2015-11-22T17:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Goiás-GO",
+        "home_goals": 2,
+        "away_goals": 2,
+        "stadium": "Independência",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 36,
+        "date_time": "2015-11-22T17:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 36,
+        "date_time": "2015-11-22T17:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Vasco-RJ",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    },
+    {
+        "week": 36,
+        "date_time": "2015-11-22T18:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Mané Garrincha",
+        "city": "Brasília"
+    },
+    {
+        "week": 36,
+        "date_time": "2015-11-22T19:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Avaí-SC",
+        "home_goals": 3,
+        "away_goals": 1,
+        "stadium": "Kléber Andrade",
+        "city": "Cariacica"
+    },
+    {
+        "week": 36,
+        "date_time": "2015-11-22T19:30:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 36,
+        "date_time": "2015-11-22T19:30:00",
+        "home_team": "Sport-PE",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Ilha do Retiro",
+        "city": "Recife"
+    },
+    {
+        "week": 37,
+        "date_time": "2015-11-28T17:00:00",
+        "home_team": "São Paulo-SP",
+        "away_team": "Figueirense-SC",
+        "home_goals": 3,
+        "away_goals": 2,
+        "stadium": "Morumbi",
+        "city": "São Paulo"
+    },
+    {
+        "week": 37,
+        "date_time": "2015-11-28T19:30:00",
+        "home_team": "Fluminense-RJ",
+        "away_team": "Internacional-RS",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 37,
+        "date_time": "2015-11-28T21:00:00",
+        "home_team": "Avaí-SC",
+        "away_team": "Ponte Preta-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Ressacada",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 37,
+        "date_time": "2015-11-29T17:00:00",
+        "home_team": "Vasco-RJ",
+        "away_team": "Santos-SP",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "São Januário",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 37,
+        "date_time": "2015-11-29T17:00:00",
+        "home_team": "Grêmio-RS",
+        "away_team": "Atlético Mineiro-MG",
+        "home_goals": 2,
+        "away_goals": 1,
+        "stadium": "Arena do Grêmio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 37,
+        "date_time": "2015-11-29T17:00:00",
+        "home_team": "Cruzeiro-MG",
+        "away_team": "Joinville-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 37,
+        "date_time": "2015-11-29T17:00:00",
+        "home_team": "Sport-PE",
+        "away_team": "Corinthians-SP",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Arena Pernambuco",
+        "city": "São Lourenço da Mata"
+    },
+    {
+        "week": 37,
+        "date_time": "2015-11-29T18:00:00",
+        "home_team": "Palmeiras-SP",
+        "away_team": "Coritiba-PR",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Allianz Parque",
+        "city": "São Paulo"
+    },
+    {
+        "week": 37,
+        "date_time": "2015-11-29T18:00:00",
+        "home_team": "Chapecoense-SC",
+        "away_team": "Goiás-GO",
+        "home_goals": 1,
+        "away_goals": 3,
+        "stadium": "Arena Condá",
+        "city": "Chapecó"
+    },
+    {
+        "week": 37,
+        "date_time": "2015-11-29T19:30:00",
+        "home_team": "Athletico Paranaense-PR",
+        "away_team": "Flamengo-RJ",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Arena da Baixada",
+        "city": "Curitiba"
+    },
+    {
+        "week": 38,
+        "date_time": "2015-12-06T17:00:00",
+        "home_team": "Corinthians-SP",
+        "away_team": "Avaí-SC",
+        "home_goals": 1,
+        "away_goals": 1,
+        "stadium": "Arena Corinthians",
+        "city": "São Paulo"
+    },
+    {
+        "week": 38,
+        "date_time": "2015-12-06T17:00:00",
+        "home_team": "Santos-SP",
+        "away_team": "Athletico Paranaense-PR",
+        "home_goals": 5,
+        "away_goals": 1,
+        "stadium": "Vila Belmiro",
+        "city": "Santos"
+    },
+    {
+        "week": 38,
+        "date_time": "2015-12-06T17:00:00",
+        "home_team": "Ponte Preta-SP",
+        "away_team": "Sport-PE",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Moisés Lucarelli",
+        "city": "Campinas"
+    },
+    {
+        "week": 38,
+        "date_time": "2015-12-06T17:00:00",
+        "home_team": "Flamengo-RJ",
+        "away_team": "Palmeiras-SP",
+        "home_goals": 1,
+        "away_goals": 2,
+        "stadium": "Maracanã",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "week": 38,
+        "date_time": "2015-12-06T17:00:00",
+        "home_team": "Internacional-RS",
+        "away_team": "Cruzeiro-MG",
+        "home_goals": 2,
+        "away_goals": 0,
+        "stadium": "Beira-Rio",
+        "city": "Porto Alegre"
+    },
+    {
+        "week": 38,
+        "date_time": "2015-12-06T17:00:00",
+        "home_team": "Atlético Mineiro-MG",
+        "away_team": "Chapecoense-SC",
+        "home_goals": 3,
+        "away_goals": 0,
+        "stadium": "Mineirão",
+        "city": "Belo Horizonte"
+    },
+    {
+        "week": 38,
+        "date_time": "2015-12-06T17:00:00",
+        "home_team": "Figueirense-SC",
+        "away_team": "Fluminense-RJ",
+        "home_goals": 1,
+        "away_goals": 0,
+        "stadium": "Orlando Scarpelli",
+        "city": "Florianópolis"
+    },
+    {
+        "week": 38,
+        "date_time": "2015-12-06T17:00:00",
+        "home_team": "Coritiba-PR",
+        "away_team": "Vasco-RJ",
+        "home_goals": 0,
+        "away_goals": 0,
+        "stadium": "Couto Pereira",
+        "city": "Curitiba"
+    },
+    {
+        "week": 38,
+        "date_time": "2015-12-06T17:00:00",
+        "home_team": "Goiás-GO",
+        "away_team": "São Paulo-SP",
+        "home_goals": 0,
+        "away_goals": 1,
+        "stadium": "Serra Dourada",
+        "city": "Goiânia"
+    },
+    {
+        "week": 38,
+        "date_time": "2015-12-06T17:00:00",
+        "home_team": "Joinville-SC",
+        "away_team": "Grêmio-RS",
+        "home_goals": 0,
+        "away_goals": 2,
+        "stadium": "Arena Joinville",
+        "city": "Joinville"
+    }
+]
